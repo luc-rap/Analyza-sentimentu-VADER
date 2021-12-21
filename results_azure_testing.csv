@@ -1,0 +1,10 @@
+,Sentence,Pre-processed sentence,textblob-subjectivity,textblob-score,vader-pos,textblob-polarity,vader-neg,vader-neu,vader-compound,vader-polarity
+0,,  not see problem,0.0,0.0,0.53,,0.0,0.47,0.3089,
+1,,  fine would good large,0.5095238095238096,0.44365079365079363,0.701,,0.0,0.299,0.5719,
+2,,  not able find first spot right middle,0.37351190476190477,0.07142857142857142,0.0,,0.0,1.0,0.0,
+3,,  no not problem,0.0,0.0,0.0,,0.805,0.195,-0.4821,
+4,,  wife think not big deal,0.1,0.0,0.0,,0.0,1.0,0.0,
+5,,  number small,0.4,-0.25,0.565,,0.0,0.435,0.0772,
+6,,  problematic,0.0,0.0,0.0,,1.0,0.0,-0.4404,
+7,,  not able find,0.625,-0.25,0.0,,0.0,1.0,0.0,
+8,, ,0.0,0.0,0.0,,0.0,0.0,0.0,
