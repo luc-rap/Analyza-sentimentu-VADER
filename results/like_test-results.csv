@@ -1,0 +1,10 @@
+,Sentence,Pre-processed sentence,textblob-subjectivity,vader-pos,vader-neg,vader-neu,vader-compound,vader-polarity,sentiment-category
+0,I like this website.,like website,0.0,0.714,0.0,0.286,0.3612,Positive,['Satisfaction']
+1,This website is like really bad.,website like-(non-standard) really bad,0.6666666666666666,0.0,0.558,0.442,-0.5849,Negative,
+2,I have seen something like this before.,see something like-(non-standard),0.0,0.6,0.0,0.4,0.4588,Positive,
+3,"I was like, I will go mad.",like-(non-standard) go mad,1.0,0.0,0.615,0.385,-0.4939,Negative,
+4,I was like I don't really know what to do now.,like-(non-standard) not really know,0.2,0.0,0.473,0.527,-0.4013,Negative,
+5,It looked like the website wasn't up to date.,look like-(non-standard) website not date,0.0,0.0,0.0,1.0,0.0,Neutral,
+6,It was pretty chaotic.,pretty chaotic,1.0,0.439,0.561,0.0,-0.1779,Negative,
+7,The site was kind of inconsistent.,site kind inconsistent,0.9,0.385,0.462,0.154,-0.128,Negative,
+8,The colors were pretty.,color pretty,1.0,0.714,0.0,0.286,0.3612,Positive,
