@@ -1,16 +1,16 @@
 ,Sentence,Pre-processed sentence,textblob-subjectivity,vader-pos,vader-neg,vader-neu,vader-compound,vader-polarity,sentiment-category,manual eval
 0,"OK, so task number one.",ok task number one,0.5,0.636,0,0.364,0.3612,Positive,,Neutral
-1,Spend 1-2 minutes familiarizing.,spend 12 minute familiarize,0,0,0,1,0,Neutral,,
-2,Yourself with the website.,website,0,0,0,1,0,Neutral,,
-3,OK.,ok,0.5,1,0,0,0.296,Positive,,
-4,So there is no.,no,0,0,1,0,-0.296,Negative,,
-5,Uhm?,uhm,0,0,0,1,0,Neutral,,
-6,Tabs.,tabs,0,0,0,1,0,Neutral,,
-7,"So it's just for local, apparently.",local apparently,0.175,0,0,1,0,Neutral,,
-8,Uhm?,uhm,0,0,0,1,0,Neutral,,
-9,OK so quicklinks.,ok quicklinks,0.5,0.688,0,0.312,0.296,Positive,,
-10,"Sounds like just so this makes me think about a file, but.",sounds like make think file,0,0.385,0,0.615,0.3612,Positive,['Satisfaction'],
-11,"Yeah OK, it's a file PDF.",yeah ok file pdf,0.5,0.688,0,0.312,0.5267,Positive,,
+1,Spend 1-2 minutes familiarizing.,spend 12 minute familiarize,0,0,0,1,0,Neutral,,Neutral
+2,Yourself with the website.,website,0,0,0,1,0,Neutral,,Neutral
+3,OK.,ok,0.5,1,0,0,0.296,Positive,,Positive
+4,So there is no.,no,0,0,1,0,-0.296,Negative,,Negative
+5,Uhm?,uhm,0,0,0,1,0,Neutral,,Neutral
+6,Tabs.,tabs,0,0,0,1,0,Neutral,,Neutral
+7,"So it's just for local, apparently.",local apparently,0.175,0,0,1,0,Neutral,,Neutral
+8,Uhm?,uhm,0,0,0,1,0,Neutral,,Neutral
+9,OK so quicklinks.,ok quicklinks,0.5,0.688,0,0.312,0.296,Positive,,Neutral
+10,"Sounds like just so this makes me think about a file, but.",sounds like make think file,0,0.385,0,0.615,0.3612,Positive,['Satisfaction'],Neutral
+11,"Yeah OK, it's a file PDF.",yeah ok file pdf,0.5,0.688,0,0.312,0.5267,Positive,,Positive
 12,So I don't think there is any menu or something.,not think menu something,0,0,0,1,0,Neutral,,
 13,It looks like.,look like-(non-standard),0,0,0,1,0,Neutral,,
 14,"It could be not the the home page, I think.",could not home page think,0,0,0,1,0,Neutral,,
