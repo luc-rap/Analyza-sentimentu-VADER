@@ -1,28 +1,28 @@
 ,Sentence,Pre-processed sentence,textblob-subjectivity,vader-pos,vader-neg,vader-neu,vader-compound,vader-polarity,sentiment-category
 0,OK.,ok,0.5,1.0,0.0,0.0,0.296,Positive,
 1,"I am going to familiarize myself with the website, so first of all I see that this is corona.gov dot SK, which means probably corona.",go familiarize website first see coronagov dot sk mean probably corona,0.5104166666666666,0.231,0.0,0.769,0.4588,Positive,
-2,"I mean it's it's pretty similar, so probably Corona.",mean pretty similar probably corona,0.6958333333333333,0.444,0.0,0.556,0.4939,Positive,
+2,"I mean it's it's pretty similar, so probably Corona.",mean pretty similar probably corona,0.6958333333333333,0.385,0.0,0.615,0.3612,Positive,
 3,"Not government dot Slovakia, so we're looking at the Slovakian government COVID page.",not government dot slovakia look slovakian government covid page,0.0,0.0,0.0,1.0,0.0,Neutral,
-4,"First of all, I see that they put statistics like first and foremost and it's a daily statistic, so that's.",first see put statistic like first foremost daily statistic thats,0.2222222222222222,0.407,0.0,0.593,0.6705,Positive,['Satisfaction']
+4,"First of all, I see that they put statistics like first and foremost and it's a daily statistic, so that's.",first see put statistic like-(non-standard) first foremost daily statistic thats,0.2222222222222222,0.25,0.0,0.75,0.4588,Positive,
 5,"Interesting, I wonder if it's automatically updated, probably.",interesting wonder automatically update probably,0.5,0.403,0.0,0.597,0.4019,Positive,
 6,I wonder where it's pulling the data from.,wonder pull data,0.0,0.0,0.0,1.0,0.0,Neutral,
 7,"Oh, it says it right there.",oh say right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
 8,"That's interesting, alright, perfect.",interesting alright perfect,0.75,1.0,0.0,0.0,0.8126,Positive,
 9,"So I see the forms for vaccinated abroad, meaning it's interesting how we put.",see form vaccinated abroad mean interesting put,0.59375,0.533,0.0,0.467,0.6908,Positive,
-10,"This first because it's a form of travel, not just like domestic.",first form travel not like domestic,0.21666666666666667,0.0,0.297,0.703,-0.2755,Negative,['Satisfaction']
+10,"This first because it's a form of travel, not just like domestic.",first form travel not like-(non-standard) domestic,0.21666666666666667,0.0,0.0,1.0,0.0,Neutral,
 11,Statistics or domestic information.,statistics domestic information,0.1,0.0,0.0,1.0,0.0,Neutral,
 12,I always appreciate a good QikLink.,always appreciate good qiklink,0.6000000000000001,0.737,0.0,0.263,0.6808,Positive,['Satisfaction']
 13,I think quick links are very important.,think quick link important,0.75,0.375,0.0,0.625,0.2023,Positive,
 14,And it's interesting how they have.,interest,0.0,1.0,0.0,0.0,0.4588,Positive,
 15,Information here with more quick links and they've itemized it.,information quick link itemize,0.5,0.0,0.0,1.0,0.0,Neutral,
-16,"It looks like, Oh yes, this is a map of all the.",look like oh yes map,0.0,0.634,0.0,0.366,0.6369,Positive,['Satisfaction']
+16,"It looks like, Oh yes, this is a map of all the.",look like-(non-standard) oh yes map,0.0,0.403,0.0,0.597,0.4019,Positive,
 17,Places in Slovakia.,places slovakia,0.0,0.0,0.0,1.0,0.0,Neutral,
 18,Excuse me.,excuse,0.05,1.0,0.0,0.0,0.0772,Positive,
 19,"I'm not sure if there are provinces there, what to call them.",not sure province call,0.8888888888888888,0.0,0.395,0.605,-0.2411,Negative,
 20,"But there's the vaccination information, which is very interesting, although.",vaccination information interesting although,0.5,0.474,0.0,0.526,0.4019,Positive,
 21,Here it's it's interesting to me because it's the first dose and then the third dose.,interest first dose third dose,0.16666666666666666,0.429,0.0,0.571,0.4588,Positive,
-22,I wonder if it's just like a translation thing.,wonder like translation thing,0.0,0.455,0.0,0.545,0.3612,Positive,['Satisfaction']
-23,"Or if they genuinely mean like the booster shot, but it would be, I wonder why they didn't put a second dose here anyway.",genuinely mean like booster shot would wonder not put second dose anyway,0.34375,0.185,0.0,0.815,0.3612,Positive,['Satisfaction']
+22,I wonder if it's just like a translation thing.,wonder like-(non-standard) translation thing,0.0,0.0,0.0,1.0,0.0,Neutral,
+23,"Or if they genuinely mean like the booster shot, but it would be, I wonder why they didn't put a second dose here anyway.",genuinely mean like-(non-standard) booster shot would wonder not put second dose anyway,0.34375,0.0,0.0,1.0,0.0,Neutral,
 24,Testing for COVID-19.,testing covid19,0.0,0.0,0.0,1.0,0.0,Neutral,
 25,OK I I like this.,ok like,0.5,1.0,0.0,0.0,0.5719,Positive,['Satisfaction']
 26,I like how they have all the places that you can be proactive or even reactive.,like place proactive even reactive,0.0,0.639,0.0,0.361,0.6486,Positive,['Satisfaction']
@@ -36,12 +36,12 @@
 34,My initial impression is that it is a very informative and organized page.,initial impression informative organize page,0.0,0.322,0.0,0.678,0.2263,Positive,
 35,I appreciate how they have a search bar up here.,appreciate search bar,0.0,0.574,0.0,0.426,0.4019,Positive,['Satisfaction']
 36,And I like how this autistics are daily.,like autistics daily,0.0,0.556,0.0,0.444,0.3612,Positive,['Satisfaction']
-37,I would maybe appreciate like a monthly statistic.,would maybe appreciate like monthly statistic,0.0,0.565,0.0,0.435,0.6369,Positive,"['Satisfaction', 'Satisfaction']"
-38,"But hey, that's kind of nitpicky.",hey kind nitpicky,0.9,0.63,0.0,0.37,0.5267,Positive,
+37,I would maybe appreciate like a monthly statistic.,would maybe appreciate like-(non-standard) monthly statistic,0.0,0.351,0.0,0.649,0.4019,Positive,['Satisfaction']
+38,"But hey, that's kind of nitpicky.",hey kind nitpicky,0.9,0.556,0.0,0.444,0.3612,Positive,
 39,"I get where they were going with it, and I appreciate it.",get go appreciate,0.0,0.574,0.0,0.426,0.4019,Positive,['Satisfaction']
 40,It's very informative overall.,informative overall,0.0,0.0,0.0,1.0,0.0,Neutral,
 41,Find the information about which region is.,find information region,0.0,0.6,0.0,0.4,0.4588,Positive,
-42,Like it has the highest number of total cases.,like high number total case,0.645,0.559,0.0,0.441,0.4215,Positive,['Satisfaction']
+42,Like it has the highest number of total cases.,like-(non-standard) high number total case,0.645,0.245,0.0,0.755,0.0772,Positive,
 43,OK so I. I'm going to go down to the quicklinks and see if it's there.,ok go go quicklinks see,0.5,0.634,0.0,0.366,0.6369,Positive,
 44,Travel regulations border regime of slackia limited limitations for facilities and massive vents.,travel regulation border regime slackia limited limitation facility massive vent,0.5714285714285714,0.0,0.339,0.661,-0.4767,Negative,
 45,Mask mandate.,mask mandate,0.0,0.0,0.0,1.0,0.0,Neutral,
@@ -73,16 +73,16 @@
 71,To read this so COVID.,read covid,0.0,0.0,0.0,1.0,0.0,Neutral,
 72,Yeah.,yeah,0.0,1.0,0.0,0.0,0.296,Positive,
 73,"Yeah, I'm not sure.",yeah not sure,0.8888888888888888,0.426,0.38,0.194,0.0613,Positive,
-74,I'll scroll up again and see if there's something I'm missing 'cause I feel like I am missing something big.,shall scroll see something miss feel like miss something big,0.1,0.374,0.218,0.408,0.5106,Positive,['Satisfaction']
+74,I'll scroll up again and see if there's something I'm missing 'cause I feel like I am missing something big.,shall scroll see something miss feel like-(non-standard) miss something big,0.1,0.227,0.242,0.53,0.2023,Positive,
 75,Measures taken by the Government of Slovakia Republic to limit the spread of disease may be advanced.,measures take government slovakia republic limit spread disease may advanced,0.6,0.182,0.0,0.818,0.25,Positive,
 76,Statistics would have it.,statistics would,0.0,0.0,0.0,1.0,0.0,Neutral,
-77,"Number OK OK. Yeah, I feel like yes Oh yes, OK this is the right place.",number ok ok yeah feel like yes oh yes ok right place,0.5089285714285714,0.818,0.0,0.182,0.9325,Positive,['Satisfaction']
+77,"Number OK OK. Yeah, I feel like yes Oh yes, OK this is the right place.",number ok ok yeah feel like-(non-standard) yes oh yes ok right place,0.5089285714285714,0.756,0.0,0.244,0.91,Positive,
 78,Interesting how it's not.,interesting not,0.5,0.73,0.0,0.27,0.4019,Positive,
 79,"Really a bold link, but let's see.",really bold link let us see,0.6666666666666666,0.596,0.0,0.404,0.7089,Positive,
-80,So this one is just pretty much bright red.,one pretty much bright red,0.6,0.67,0.0,0.33,0.7269,Positive,
+80,So this one is just pretty much bright red.,one pretty much bright red,0.6,0.643,0.0,0.357,0.6597,Positive,
 81,So it's got to be this one right.,get one right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
 82,Whatever this one is.,whatever one,0.0,0.0,0.0,1.0,0.0,Neutral,
-83,"Bratislava How to spell it right on the border looks like interesting, yeah well no 100 and 2700 and 57200 and 37287.",bratislava spell right border look like interest yeah well no 100 2700 57200 37287,0.5357142857142857,0.467,0.105,0.429,0.765,Positive,['Satisfaction']
+83,"Bratislava How to spell it right on the border looks like interesting, yeah well no 100 and 2700 and 57200 and 37287.",bratislava spell right border look like-(non-standard) interest yeah well no 100 2700 57200 37287,0.5357142857142857,0.374,0.113,0.513,0.6249,Positive,
 84,OK.,ok,0.5,1.0,0.0,0.0,0.296,Positive,
 85,Highest number of total COVID cases.,highest number total covid case,0.75,0.245,0.0,0.755,0.0772,Positive,
 86,"Well, this is the growth right?",well growth right,0.5357142857142857,0.825,0.0,0.175,0.5719,Positive,
@@ -90,7 +90,7 @@
 88,"Really sure this is what I'm looking for, but it says.",really sure look say,0.8888888888888888,0.464,0.0,0.536,0.3804,Positive,
 89,"OK, so this one, this one calise.",ok one one calise,0.5,0.423,0.0,0.577,0.296,Positive,
 90,"Whoops, probably not pronouncing that right kolisch this has 328 cases.",whoops probably not pronounce right kolisch 328 case,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
-91,It looks like maybe if I'm reading this right so that would be.,look like maybe read right would,0.5357142857142857,0.333,0.0,0.667,0.3612,Positive,['Satisfaction']
+91,It looks like maybe if I'm reading this right so that would be.,look like-(non-standard) maybe read right would,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
 92,"Oh, it's right here.",oh right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
 93,"Total number of cases, so it's this one.",total number case one,0.75,0.347,0.0,0.653,0.1513,Positive,
 94,The Banska Bistrica region.,banska bistrica region,0.0,0.0,0.0,1.0,0.0,Neutral,
@@ -102,22 +102,22 @@
 100,Maybe I had a right.,maybe right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
 101,Maybe it's the number of cases per day or per something.,maybe number case per day per something,0.0,0.178,0.0,0.822,0.0772,Positive,
 102,Overall this data sticks right off the top right here.,overall data stick right top right,0.3928571428571428,0.265,0.0,0.735,0.2023,Positive,
-103,"These are interesting and pretty clear, so there's antigen test lab confirmed cases.",interest pretty clear antigen test lab confirm case,0.6916666666666667,0.638,0.0,0.362,0.8316,Positive,
+103,"These are interesting and pretty clear, so there's antigen test lab confirmed cases.",interest pretty clear antigen test lab confirm case,0.6916666666666667,0.618,0.0,0.382,0.7964,Positive,
 104,Interesting because I like the division here.,interesting like division,0.5,0.839,0.0,0.161,0.6369,Positive,['Satisfaction']
 105,"On most of the websites I've seen, evaluating COVID or with COVID statistics, it is just one number and it would be not PCR test specifically, but save 15,000 overall.",website see evaluate covid covid statistic one number would not pcr test specifically save 15000 overall,0.0,0.366,0.0,0.634,0.7579,Positive,
 106,"So I appreciate that, and I think that these are very.",appreciate think,0.0,0.73,0.0,0.27,0.4019,Positive,['Satisfaction']
-107,"Easy to understand, especially because they have it laid out in such a way.",easy understand especially lay way,0.9166666666666667,0.42,0.0,0.58,0.4404,Positive,
+107,"Easy to understand, especially because they have it laid out in such a way.",easy understand especially lay way,0.9166666666666667,0.663,0.0,0.337,0.7096,Positive,
 108,Number of persons vaccinated with second dose first dose.,number person vaccinate second dose first dose,0.16666666666666666,0.178,0.0,0.822,0.0772,Positive,
 109,I wonder if there's overlap here.,wonder overlap,0.0,0.0,0.0,1.0,0.0,Neutral,
 110,"Probably right that 2.7 million is probably within that 2.8 million, although I would like to know.",probably right 27 million probably within 28 million although would like know,0.5357142857142857,0.355,0.0,0.645,0.6705,Positive,['Satisfaction']
-111,"For sure, so that's just an assumption of mine, but overall I think the statistics are very clear and easy to understand, so that's important.",sure assumption mine overall think statistic clear easy understand important,0.6211111111111112,0.615,0.0,0.385,0.8225,Positive,
+111,"For sure, so that's just an assumption of mine, but overall I think the statistics are very clear and easy to understand, so that's important.",sure assumption mine overall think statistic clear easy understand important,0.6211111111111112,0.716,0.0,0.284,0.891,Positive,
 112,Find the information about exemptions from compulsory home isolation after arriving to Slovakia.,find information exemption compulsory home isolation arrive slovakia,0.0,0.256,0.231,0.513,0.0772,Positive,
 113,So this one I'm going to go back to the main page forms of vaccination abroad.,one go go back main page form vaccination abroad,0.16666666666666666,0.0,0.0,1.0,0.0,Neutral,
 114,"Uhm, let's see, let's see.",uhm let us see let us see,0.0,0.545,0.0,0.455,0.7184,Positive,
 115,Close contact.,close contact,0.0,0.0,0.0,1.0,0.0,Neutral,
 116,COVID-19 positive prevent infection.,covid19 positive prevent infection,0.5454545454545454,0.701,0.0,0.299,0.5719,Positive,
 117,Symptoms of COVID may be travel.,symptoms covid may travel,0.0,0.0,0.0,1.0,0.0,Neutral,
-118,Immigration that seems like it would have something there.,immigration seem like would something,0.0,0.385,0.0,0.615,0.3612,Positive,['Satisfaction']
+118,Immigration that seems like it would have something there.,immigration seem like-(non-standard) would something,0.0,0.0,0.0,1.0,0.0,Neutral,
 119,Finding information about exemptions from compulsory home isolation.,finding information exemption compulsory home isolation,0.0,0.0,0.351,0.649,-0.4019,Negative,
 120,"So exemptions, travel regulations.",exemption travel regulation,0.0,0.0,0.0,1.0,0.0,Neutral,
 121,It would probably be.,would probably,0.0,0.0,0.0,1.0,0.0,Neutral,
@@ -158,15 +158,15 @@
 156,"OK, cool, so that's it.",ok cool,0.575,1.0,0.0,0.0,0.5423,Positive,
 157,It's on that PDF right there.,pdf right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
 158,Describe your experience in navigating the exemption rules.,describe experience navigate exemption rule,0.0,0.0,0.0,1.0,0.0,Neutral,
-159,"They were pretty easy after I put together that it should be under travel and immigration, which is the drop down list that makes the most sense and then it makes sense that it would be kind of under the vaccination thing.",pretty easy put together travel immigration drop list make sense make sense would kind vaccination thing,0.9111111111111111,0.403,0.089,0.508,0.8126,Positive,
+159,"They were pretty easy after I put together that it should be under travel and immigration, which is the drop down list that makes the most sense and then it makes sense that it would be kind of under the vaccination thing.",pretty easy put together travel immigration drop list make sense make sense would kind vaccination thing,0.9111111111111111,0.359,0.095,0.545,0.7003,Positive,
 160,I wonder if I missed any 'cause it wasn't just a specific.,wonder miss not specific,0.125,0.0,0.348,0.652,-0.1531,Negative,
-161,"Subset, it wasn't a specific link like in the table content.",subset not specific link like table content,0.125,0.0,0.26,0.74,-0.2755,Negative,['Satisfaction']
+161,"Subset, it wasn't a specific link like in the table content.",subset not specific link like-(non-standard) table content,0.125,0.0,0.0,1.0,0.0,Neutral,
 162,See specific entry requirements for.,see specific entry requirement,0.125,0.5,0.0,0.5,0.4588,Positive,
 163,There was nothing.,nothing,0.0,0.0,0.0,1.0,0.0,Neutral,
 164,Specifically there that talked about.,specifically talk,0.0,0.0,0.0,1.0,0.0,Neutral,
-165,"The isolation I would have preferred like an isolation link if I was looking specifically for that, but I guess since there's a classification of vaccinated unvaccinated and there's that specific.",isolation would prefer like isolation link look specifically guess since classification vaccinate unvaccinated specific,0.125,0.132,0.286,0.582,-0.4404,Negative,"['Suggestion', 'Satisfaction']"
+165,"The isolation I would have preferred like an isolation link if I was looking specifically for that, but I guess since there's a classification of vaccinated unvaccinated and there's that specific.",isolation would prefer like-(non-standard) isolation link look specifically guess since classification vaccinate unvaccinated specific,0.125,0.0,0.31,0.69,-0.6597,Negative,['Suggestion']
 166,Data set for that or that specific instruction set for.,data set specific instruction set,0.125,0.0,0.0,1.0,0.0,Neutral,
-167,"Categories it makes the most sense to kind of have it separated anyway, so that makes that makes sense.",categories make sense kind separate anyway make make sense,0.9,0.298,0.0,0.702,0.5267,Positive,
+167,"Categories it makes the most sense to kind of have it separated anyway, so that makes that makes sense.",categories make sense kind separate anyway make make sense,0.9,0.238,0.0,0.762,0.3612,Positive,
 168,It was fine.,fine,0.5,1.0,0.0,0.0,0.2023,Positive,
 169,You're planning to arrive from abroad to Slovakia.,plan arrive abroad slovakia,0.0,0.0,0.0,1.0,0.0,Neutral,
 170,"Find out whether the arrival is even possible, and if yes, what are the requirements for the arrival so.",find whether arrival even possible yes requirement arrival,1.0,0.487,0.0,0.513,0.6908,Positive,
@@ -179,7 +179,7 @@
 177,Passengers arriving from a country are not included in the list stated below.,passengers arrive country not include list state,0.0,0.0,0.0,1.0,0.0,Neutral,
 178,Maybe there's a better place to do this.,maybe good place,0.6000000000000001,0.592,0.0,0.408,0.4404,Positive,
 179,Or maybe not travel and immigration.,maybe not travel immigration,0.0,0.0,0.0,1.0,0.0,Neutral,
-180,"That's what I'm kind of looking at anyway, and that's what I'm looking for.",kind look anyway look,0.9,0.531,0.0,0.469,0.5267,Positive,
+180,"That's what I'm kind of looking at anyway, and that's what I'm looking for.",kind look anyway look,0.9,0.455,0.0,0.545,0.3612,Positive,
 181,"If you're planning to arrive from abroad to Slovakia, find out whether the arrival is even possible, and if yes, what are the requirements of the arrival.",plan arrive abroad slovakia find whether arrival even possible yes requirement arrival,1.0,0.363,0.0,0.637,0.6908,Positive,
 182,So maybe there is.,maybe,0.0,0.0,0.0,1.0,0.0,Neutral,
 183,"Ah, travel regulations.",ah travel regulation,0.0,0.0,0.0,1.0,0.0,Neutral,
@@ -210,10 +210,10 @@
 208,So what are the requirements of the arrival?,requirement arrival,0.0,0.0,0.0,1.0,0.0,Neutral,
 209,I'm guessing it's just fill out this form and I'm going to click on the form and see if it takes me anywhere.,guess fill form go click form see take anywhere,0.0,0.273,0.0,0.727,0.4588,Positive,
 210,That I OK.,ok,0.5,1.0,0.0,0.0,0.296,Positive,
-211,"So yeah, there's just a form of like.",yeah form like,0.0,0.825,0.0,0.175,0.5719,Positive,['Satisfaction']
-212,I'm going to translate it to English so I can fully understand OK where you're coming from.,go translate english fully understand ok come,0.25,0.292,0.0,0.708,0.3566,Positive,
+211,"So yeah, there's just a form of like.",yeah form like-(non-standard),0.0,0.524,0.0,0.476,0.296,Positive,
+212,I'm going to translate it to English so I can fully understand OK where you're coming from.,go translate english fully understand ok come,0.25,0.536,0.0,0.464,0.6976,Positive,
 213,"Your address, your information that makes sense.",address information make sense,0.0,0.0,0.0,1.0,0.0,Neutral,
-214,It's just kind of the basic form you fill out when you're going through.,kind basic form fill go,0.5125,0.459,0.0,0.541,0.5267,Positive,
+214,It's just kind of the basic form you fill out when you're going through.,kind basic form fill go,0.5125,0.385,0.0,0.615,0.3612,Positive,
 215,"Anyway, and probably just again for the government, so I'm assuming that's what I need.",anyway probably government assume need,0.0,0.0,0.0,1.0,0.0,Neutral,['Expectation']
 216,I'm going to look a little bit closer to see if there's anything else I might need.,go look little bit closer see anything else might need,0.5,0.25,0.0,0.75,0.4588,Positive,
 217,The E border registration.,e border registration,0.0,0.0,0.0,1.0,0.0,Neutral,
@@ -221,28 +221,28 @@
 219,I wonder if that's the same thing?,wonder thing,0.0,0.0,0.0,1.0,0.0,Neutral,
 220,"No, it's not.",no not,0.0,0.0,0.688,0.312,-0.296,Negative,
 221,"Uhm, so yes, I was right.",uhm yes right,0.5357142857142857,0.574,0.0,0.426,0.4019,Positive,
-222,"That's the EU border registration, so it looks like I would need the E border registration unless it's just a European thing, but I'm just going to assume that I'm going to need to fill it out anyway, so.",eu border registration look like would need e border registration unless european thing go assume go need fill anyway,0.0,0.122,0.0,0.878,0.3612,Positive,"['Satisfaction', 'Expectation']"
+222,"That's the EU border registration, so it looks like I would need the E border registration unless it's just a European thing, but I'm just going to assume that I'm going to need to fill it out anyway, so.",eu border registration look like-(non-standard) would need e border registration unless european thing go assume go need fill anyway,0.0,0.0,0.0,1.0,0.0,Neutral,['Expectation']
 223,It.,,0.0,0.0,0.0,0.0,0.0,Neutral,
-224,Looks like.,looks like,0.0,0.714,0.0,0.286,0.3612,Positive,['Satisfaction']
+224,Looks like.,looks like-(non-standard),0.0,0.0,0.0,1.0,0.0,Neutral,
 225,I am going to need to fill out this form that border registration and then look at the travel regulations which in turn tells me to fill out a different form from.,go need fill form border registration look travel regulation turn tell fill different form,0.6,0.0,0.0,1.0,0.0,Neutral,
 226,For the government itself I assume.,government assume,0.0,0.0,0.0,1.0,0.0,Neutral,['Expectation']
 227,I felt that it was a little bit buried in a PDF.,felt little bit bury pdf,0.5,0.0,0.0,1.0,0.0,Neutral,
 228,I like to have things quick and easy.,like thing quick easy,0.6666666666666667,0.73,0.0,0.27,0.6597,Positive,['Satisfaction']
 229,I like to have things just right off the bat.,like thing right bat,0.5357142857142857,0.455,0.0,0.545,0.3612,Positive,['Satisfaction']
-230,I I just like to.,like,0.0,1.0,0.0,0.0,0.3612,Positive,['Satisfaction']
-231,Would be able to see things immediately and that's just kind of not what the PDF gave me.,would able see thing immediately kind not pdf give,0.7625,0.478,0.0,0.522,0.7506,Positive,
+230,I I just like to.,like-(non-standard),0.0,0.0,0.0,1.0,0.0,Neutral,
+231,Would be able to see things immediately and that's just kind of not what the PDF gave me.,would able see thing immediately kind not pdf give,0.7625,0.44,0.0,0.56,0.6705,Positive,
 232,I'm sure if I had known that person is coming from risk countries or maybe.,sure know person come risk country maybe,0.8888888888888888,0.465,0.184,0.351,0.4939,Positive,
 233,"Uhm, uh, different cross border commuters.",uhm uh different cross border commuter,0.3,0.0,0.0,1.0,0.0,Neutral,
 234,"I wish there was just something saying, hey, if you're coming here, this is where you need to go and I'm sure I'm missing something.",wish something say hey come need go sure miss something,0.8888888888888888,0.368,0.118,0.515,0.5267,Positive,
-235,I always I feel like I'm missing something here which is interesting.,always feel like miss something interest,0.0,0.545,0.158,0.297,0.5994,Positive,['Satisfaction']
+235,I always I feel like I'm missing something here which is interesting.,always feel like-(non-standard) miss something interest,0.0,0.349,0.186,0.465,0.34,Positive,
 236,Because I'm not sure if.,not sure,0.8888888888888888,0.0,0.662,0.338,-0.2411,Negative,
 237,"Oh, it says it right here.",oh say right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
 238,I was absolutely missing something.,absolutely miss something,0.9,0.0,0.486,0.514,-0.2247,Negative,
 239,So it.,,0.0,0.0,0.0,0.0,0.0,Neutral,
 240,"In that PDF that I was looking at, I just wish it was more concise and a little bit easier to just right off the bat.",pdf look wish concise little bit easy right bat,0.6172619047619048,0.444,0.0,0.556,0.6808,Positive,
 241,"Say this is what I need and have a list format, maybe just something to make it easier.",say need list format maybe something make easy,0.8333333333333334,0.293,0.0,0.707,0.4404,Positive,
-242,"Like I said before, I really like quick links I like.",like say really like quick link like,0.35,0.661,0.0,0.339,0.7778,Positive,"['Satisfaction', 'Satisfaction', 'Satisfaction']"
-243,"Having information right in front of me when I need it and not searching for that information, but I understand how it's important to be detailed in every situation so.",information right front need not search information understand important detail every situation,0.7678571428571428,0.141,0.0,0.859,0.2023,Positive,
+242,"Like I said before, I really like quick links I like.",like-(non-standard) say really like-(non-standard) quick link like,0.35,0.294,0.0,0.706,0.3612,Positive,['Satisfaction']
+243,"Having information right in front of me when I need it and not searching for that information, but I understand how it's important to be detailed in every situation so.",information right front need not search information understand important detail every situation,0.7678571428571428,0.126,0.174,0.7,-0.1729,Negative,
 244,That you have to fill in the 800.,fill 800,0.0,0.0,0.0,1.0,0.0,Neutral,
 245,"So that you've order form that, you will have to fill after arriving to Slovakia from abroad to the best of your ability, you're planning to arrive by plane from the USA at landing in Vienna and then arriving to Slovakia.",order form fill arrive slovakia abroad best ability plan arrive plane usa land vienna arrive slovakia,0.3,0.317,0.0,0.683,0.7579,Positive,
 246,I'm not vaccinated.,not vaccinate,0.0,0.0,0.0,1.0,0.0,Neutral,
@@ -274,7 +274,7 @@
 272,Date of birth is.,date birth,0.0,0.0,0.0,1.0,0.0,Neutral,
 273,"Oh, ID is that.",oh id,0.0,0.0,0.0,1.0,0.0,Neutral,
 274,Or be I see OK. Oh interesting how your birth numbers.,see ok oh interest birth number,0.5,0.826,0.0,0.174,0.8176,Positive,
-275,Maybe that's some like a Social Security number.,maybe like social security number,0.06666666666666667,0.756,0.0,0.244,0.6369,Positive,['Satisfaction']
+275,Maybe that's some like a Social Security number.,maybe like-(non-standard) social security number,0.06666666666666667,0.552,0.0,0.448,0.4019,Positive,
 276,"I'm just going to copy and paste that I hope that's right, that's not right.",go copy paste hope right not right,0.5357142857142857,0.326,0.0,0.674,0.4404,Positive,['Expectation']
 277,Cool.,cool,0.65,1.0,0.0,0.0,0.3182,Positive,
 278,That would make sense.,would make sense,0.0,0.0,0.0,1.0,0.0,Neutral,
@@ -283,9 +283,9 @@
 281,One 1999.,one 1999,0.0,0.0,0.0,1.0,0.0,Neutral,
 282,Email address and phone number.,email address phone number,0.0,0.302,0.0,0.698,0.0772,Positive,
 283,OK.,ok,0.5,1.0,0.0,0.0,0.296,Positive,
-284,"So tester@gmail.com I wish this form was in English right off the bat and I know that's kind of, you know, ethnocentric or whatever the word is.",testergmailcom wish form english right bat know kind know ethnocentric whatever word,0.4785714285714286,0.602,0.0,0.398,0.9022,Positive,
-285,"I'm pretty sure it's ethnocentric, but I just I wish I didn't have.",pretty sure ethnocentric wish not,0.9444444444444444,0.804,0.0,0.196,0.802,Positive,
-286,"Translator, 'cause I'm pretty sure I'm filling in the right information.",translator pretty sure fill right information,0.8082010582010581,0.579,0.0,0.421,0.6705,Positive,
+284,"So tester@gmail.com I wish this form was in English right off the bat and I know that's kind of, you know, ethnocentric or whatever the word is.",testergmailcom wish form english right bat know kind know ethnocentric whatever word,0.4785714285714286,0.583,0.0,0.417,0.8807,Positive,
+285,"I'm pretty sure it's ethnocentric, but I just I wish I didn't have.",pretty sure ethnocentric wish not,0.9444444444444444,0.789,0.0,0.211,0.7579,Positive,
+286,"Translator, 'cause I'm pretty sure I'm filling in the right information.",translator pretty sure fill right information,0.8082010582010581,0.545,0.0,0.455,0.5859,Positive,
 287,"It makes the most sense for it to be in this order anyway, but it's just interesting.",make sense order anyway interesting,0.5,0.403,0.0,0.597,0.4019,Positive,
 288,Do I have to click continue or is that going to submit it?,click continue go submit,0.0,0.0,0.0,1.0,0.0,Neutral,
 289,"I think I have to click continue, right?",think click continue right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
@@ -318,7 +318,7 @@
 316,Nope.,nope,0.0,0.0,0.0,1.0,0.0,Neutral,
 317,"Alright, without insurance in EU oh that makes sense.",alright without insurance eu oh make sense,0.0,0.25,0.0,0.75,0.25,Positive,
 318,Home ice insulation now isolation address.,home ice insulation isolation address,0.0,0.0,0.403,0.597,-0.4019,Negative,
-319,"Uh, I feel like I'm missing something like is there just a regular way for it to be in English?",uh feel like miss something like regular way english,0.038461538461538464,0.397,0.127,0.476,0.5267,Positive,"['Satisfaction', 'Satisfaction']"
+319,"Uh, I feel like I'm missing something like is there just a regular way for it to be in English?",uh feel like-(non-standard) miss something like-(non-standard) regular way english,0.038461538461538464,0.0,0.167,0.833,-0.1531,Negative,
 320,"Maybe, maybe not.",maybe maybe not,0.0,0.0,0.0,1.0,0.0,Neutral,
 321,"Maybe I'm maybe I'm not missing that, but.",maybe maybe not miss,0.0,0.325,0.0,0.675,0.1139,Positive,
 322,City slash town.,city slash town,0.0,0.0,0.512,0.488,-0.2732,Negative,
@@ -372,29 +372,29 @@
 370,"Honestly, I didn't look too hard to see if there was an English one.",honestly not look hard see english one,0.48055555555555557,0.399,0.23,0.371,0.2062,Positive,
 371,I probably.,probably,0.0,0.0,0.0,1.0,0.0,Neutral,
 372,"Oh yeah, I should have looked harder.",oh yeah look harder,0.0,0.423,0.0,0.577,0.296,Positive,
-373,"I keep finding things like this, but yes, I should have looked harder and now I have filled out the Slovakian.",keep find thing like yes look hard fill slovakian,0.5416666666666666,0.562,0.096,0.342,0.7783,Positive,['Satisfaction']
+373,"I keep finding things like this, but yes, I should have looked harder and now I have filled out the Slovakian.",keep find thing like-(non-standard) yes look hard fill slovakian,0.5416666666666666,0.435,0.107,0.458,0.6486,Positive,
 374,"Great yeah, so my experience would have been a lot better if I had realized that the English thing was up here.",great yeah experience would lot good realize english thing,0.45,0.709,0.0,0.291,0.9042,Positive,
 375,"But Unfortunately, this is not something I look at all.",unfortunately not something look,1.0,0.0,0.444,0.556,-0.34,Negative,
 376,Time when I'm looking at information down here.,time look information,0.0,0.0,0.0,1.0,0.0,Neutral,
 377,"So seeing this and also this, we call it Slovakian in in English, I believe I might be completely wrong about that, but seeing this obviously this isn't.",see also call slovakian english believe might completely wrong see obviously isnt,0.4666666666666666,0.336,0.182,0.482,0.4377,Positive,
 378,"A form four people speaking English all the time, but maybe a little language notation here.",form four people speak english time maybe little language notation,0.25,0.0,0.0,1.0,0.0,Neutral,
-379,Or maybe like a globe or something would have made it a lot easier for me instead of.,maybe like globe something would make lot easy instead,0.8333333333333334,0.435,0.0,0.565,0.6597,Positive,['Satisfaction']
+379,Or maybe like a globe or something would have made it a lot easier for me instead of.,maybe like-(non-standard) globe something would make lot easy instead,0.8333333333333334,0.266,0.0,0.734,0.4404,Positive,
 380,Luckily I have Google Translate.,luckily google translate,0.8333333333333334,0.623,0.0,0.377,0.5106,Positive,
 381,"As an extension, but.",extension,0.0,0.0,0.0,1.0,0.0,Neutral,
 382,"Oh yeah, that was not ideal, so.",oh yeah not ideal,1.0,0.315,0.398,0.287,-0.1471,Negative,
 383,Describe my understanding of the rules which apply.,describe understanding rule apply,0.0,0.0,0.0,1.0,0.0,Neutral,
 384,After arriving Slovakia.,arrive slovakia,0.0,0.0,0.0,1.0,0.0,Neutral,
-385,So it seems like I will have to isolate 4.,seem like isolate 4,0.0,0.397,0.286,0.317,0.1779,Positive,['Satisfaction']
+385,So it seems like I will have to isolate 4.,seem like-(non-standard) isolate 4,0.0,0.0,0.375,0.625,-0.2023,Negative,
 386,I believe it's five days and also.,believe five day also,0.0,0.0,0.0,1.0,0.0,Neutral,
 387,"I may have to notate where I'm staying, who I'm staying with, and then my practitioner and etc.",may notate stay stay practitioner etc,0.0,0.0,0.0,1.0,0.0,Neutral,
 388,"My doctor, if there's someone who, if I end up contracting COVID.",doctor someone end contract covid,0.0,0.0,0.0,1.0,0.0,Neutral,
-389,I have to make sure the government knows where I'm staying specifically and kind of what area I'm in.,make sure government know stay specifically kind area,0.8944444444444444,0.635,0.0,0.365,0.8271,Positive,
+389,I have to make sure the government knows where I'm staying specifically and kind of what area I'm in.,make sure government know stay specifically kind area,0.8944444444444444,0.609,0.0,0.391,0.7783,Positive,
 390,All the important stuff.,important stuff,1.0,0.643,0.0,0.357,0.2023,Positive,
-391,And I will pretty much just have to stay put for five days.,pretty much stay put five day,0.6,0.39,0.0,0.61,0.4939,Positive,
+391,And I will pretty much just have to stay put for five days.,pretty much stay put five day,0.6,0.333,0.0,0.667,0.3612,Positive,
 392,"If I'm unvaccinated, describe your understanding of the rules.",unvaccinated describe understanding rule,0.0,0.0,0.0,1.0,0.0,Neutral,
-393,"Yeah, that's that's pretty much it.",yeah pretty much,0.6,0.844,0.0,0.156,0.6597,Positive,
-394,"I mean, after filling out the form, I just kind of have to sit and wait.",mean fill form kind sit wait,0.79375,0.405,0.0,0.595,0.5267,Positive,
-395,As far as I understand.,far understand,1.0,0.0,0.0,1.0,0.0,Neutral,
+393,"Yeah, that's that's pretty much it.",yeah pretty much,0.6,0.825,0.0,0.175,0.5719,Positive,
+394,"I mean, after filling out the form, I just kind of have to sit and wait.",mean fill form kind sit wait,0.79375,0.333,0.0,0.667,0.3612,Positive,
+395,As far as I understand.,far understand,1.0,0.75,0.0,0.25,0.4588,Positive,
 396,"After being vaccinated abroad, you would like to complete your vaccination in Slovakia.",vaccinate abroad would like complete vaccination slovakia,0.4,0.294,0.0,0.706,0.3612,Positive,['Satisfaction']
 397,What are some of the steps that you need to?,step need,0.0,0.0,0.0,1.0,0.0,Neutral,
 398,Try describing out loud how you would fill in the forms that you find to apply for the vaccinations from abroad.,try describe loud would fill form find apply vaccination abroad,0.8,0.25,0.0,0.75,0.4588,Positive,
@@ -418,14 +418,14 @@
 416,I obviously would put in my name.,obviously would put name,0.5,0.0,0.0,1.0,0.0,Neutral,
 417,It's her name I would put in the personal identifier.,name would put personal identifier,0.3,0.0,0.0,1.0,0.0,Neutral,
 418,I'm assuming that's.,assume thats,0.0,0.0,0.0,1.0,0.0,Neutral,['Expectation']
-419,"I'm not really sure what a personal identifier would mean, and maybe that's like a pronoun or.",not really sure personal identifier would mean maybe like pronoun,0.625462962962963,0.197,0.172,0.631,0.0826,Positive,['Satisfaction']
+419,"I'm not really sure what a personal identifier would mean, and maybe that's like a pronoun or.",not really sure personal identifier would mean maybe like-(non-standard) pronoun,0.625462962962963,0.0,0.195,0.805,-0.2912,Negative,
 420,Maybe it's an ID number?,maybe id number,0.0,0.394,0.0,0.606,0.0772,Positive,
-421,"Something like that, date of birth and then gender, cell phone number, health insurance address in Slovakia.",something like date birth gender cell phone number health insurance address slovakia,0.0,0.275,0.0,0.725,0.4215,Positive,['Satisfaction']
+421,"Something like that, date of birth and then gender, cell phone number, health insurance address in Slovakia.",something like-(non-standard) date birth gender cell phone number health insurance address slovakia,0.0,0.106,0.0,0.894,0.0772,Positive,
 422,"That one doesn't even have a translation #8, so I'm not really sure what I should put there, but OK. And that number of dough.",one not even translation 8 not really sure put ok number dough,0.6944444444444444,0.252,0.146,0.602,0.1493,Positive,
 423,It is.,,0.0,0.0,0.0,0.0,0.0,Neutral,
 424,Which for me would just be one.,would one,0.0,0.0,0.0,1.0,0.0,Neutral,
 425,State Institute for Drug Control Code batch interesting.,state institute drug control code batch interesting,0.5,0.31,0.0,0.69,0.4019,Positive,
-426,"OK, so that would be like gotcha.",ok would like gotcha,0.5,0.701,0.0,0.299,0.5719,Positive,['Satisfaction']
+426,"OK, so that would be like gotcha.",ok would like-(non-standard) gotcha,0.5,0.423,0.0,0.577,0.296,Positive,
 427,So that information I can just find in my vaccine card.,information find vaccine card,0.0,0.5,0.0,0.5,0.4588,Positive,
 428,I've seen that before date and time of your vaccination.,see date time vaccination,0.0,0.5,0.0,0.5,0.4588,Positive,
 429,I'm assuming this means the prior vaccination and then my email address although.,assume mean prior vaccination email address although,0.34375,0.0,0.0,1.0,0.0,Neutral,['Expectation']
@@ -435,14 +435,14 @@
 433,I'm not really sure right there.,not really sure right,0.7123015873015872,0.0,0.421,0.579,-0.2912,Negative,
 434,Their personal data is being processed for the purpose of providing health services.,personal data process purpose provide health service,0.3,0.0,0.0,1.0,0.0,Neutral,
 435,Providing this personal data is voluntary.,providing personal data voluntary,0.3,0.0,0.0,1.0,0.0,Neutral,
-436,"And great, and it looks like I can.",great look like,0.75,0.868,0.0,0.132,0.765,Positive,['Satisfaction']
+436,"And great, and it looks like I can.",great look like-(non-standard),0.75,0.672,0.0,0.328,0.6249,Positive,
 437,"Check the box on here, but I can't fill out the chart online.",check box not fill chart online,0.0,0.0,0.0,1.0,0.0,Neutral,
 438,"Interesting, OK?",interesting ok,0.5,1.0,0.0,0.0,0.5994,Positive,
 439,And then good Faith Declaration which is.,good faith declaration,0.6000000000000001,0.851,0.0,0.149,0.6908,Positive,
 440,Dear.,dear,0.0,1.0,0.0,0.0,0.3818,Positive,
 441,Not in English form except for one part.,not english form except one part,0.0,0.0,0.0,1.0,0.0,Neutral,
 442,"I may just Oh no, I'm missing that OK vaccine data vaccination and country.",may oh no miss ok vaccine data vaccination country,0.5,0.14,0.183,0.678,-0.1139,Negative,
-443,"Conscious so this is like the vaccine card, but just updating it for the doctor that I'm about to give it to you.",conscious like vaccine card update doctor give,0.5,0.294,0.0,0.706,0.3612,Positive,['Satisfaction']
+443,"Conscious so this is like the vaccine card, but just updating it for the doctor that I'm about to give it to you.",conscious like-(non-standard) vaccine card update doctor give,0.5,0.0,0.0,1.0,0.0,Neutral,
 444,Evaluate comprehension regarding the steps required to complete a vaccination series.,evaluate comprehension regard step require complete vaccination series,0.4,0.0,0.0,1.0,0.0,Neutral,
 445,Seems easy enough.,seems easy enough,0.6666666666666667,0.592,0.0,0.408,0.4404,Positive,
 446,It's it's all right here.,right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
@@ -451,7 +451,7 @@
 449,"Filling that out with someone, submit the both forms and the proof of previous vaccination.",filling someone submit form proof previous vaccination,0.16666666666666666,0.0,0.0,1.0,0.0,Neutral,
 450,Original copy to the Doctor and the vaccination center where you get vaccinated without prior register.,original copy doctor vaccination center get vaccinate without prior register,0.2833333333333333,0.204,0.0,0.796,0.3182,Positive,
 451,So just bring him with you is what I'm hearing when you go to get vaccinated.,bring hear go get vaccinated,0.0,0.0,0.0,1.0,0.0,Neutral,
-452,"Bring him with you and that's pretty much the same as it was here in the US, so that makes sense.",bring pretty much us make sense,0.6,0.39,0.0,0.61,0.4939,Positive,
+452,"Bring him with you and that's pretty much the same as it was here in the US, so that makes sense.",bring pretty much us make sense,0.6,0.333,0.0,0.667,0.3612,Positive,
 453,It's.,,0.0,0.0,0.0,0.0,0.0,Neutral,
 454,"Comprehendible Next steps, you just submit him to the doctor.",comprehendible next step submit doctor,0.0,0.0,0.0,1.0,0.0,Neutral,
 455,I believe.,believe,0.0,0.0,0.0,1.0,0.0,Neutral,
@@ -464,8 +464,8 @@
 462,I'll give it a four.,shall give four,0.0,0.0,0.0,1.0,0.0,Neutral,
 463,"Just 'cause of that one, four.",one four,0.0,0.0,0.0,1.0,0.0,Neutral,
 464,How did you feel about obtaining the information for the website?,feel obtain information website,0.0,0.0,0.0,1.0,0.0,Neutral,
-465,"Uh, you know what I felt OK, I felt like I was always missing something but I I got.",uh know felt ok felt like always miss something get,0.5,0.503,0.105,0.392,0.7269,Positive,['Satisfaction']
+465,"Uh, you know what I felt OK, I felt like I was always missing something but I I got.",uh know felt ok felt like-(non-standard) always miss something get,0.5,0.377,0.116,0.507,0.5574,Positive,
 466,"He did eventually describe how understandable information from the website was, and your level of confidence in being able to use information.",eventually describe understandable information website level confidence able use information,0.625,0.268,0.0,0.732,0.5106,Positive,
-467,It's pretty understandable.,pretty understandable,1.0,0.762,0.0,0.238,0.4939,Positive,
+467,It's pretty understandable.,pretty understandable,1.0,0.714,0.0,0.286,0.3612,Positive,
 468,"It's not completely understandable, but it.",not completely understandable,0.4,0.0,0.0,1.0,0.0,Neutral,
 469,"It was understandable enough a meaning I could get by and maybe make a couple of mistakes, but I could definitely get by and I'd get to the point eventually.",understandable enough meaning could get maybe make couple mistake could definitely get would get point eventually,0.5,0.141,0.126,0.733,0.0772,Positive,
