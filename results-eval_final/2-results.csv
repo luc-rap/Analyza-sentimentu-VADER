@@ -19,10 +19,6 @@
 17,So.,,0,0,0,0,0,Neutral,,Neutral
 18,"Yeah, made me annoyed a bit.",yeah make annoy bit,0,0.31,0.408,0.282,-0.1779,Negative,,Negative
 19,I would need to go to Google because I couldn't find it here.,would need go google could not find,0,0,0.292,0.708,-0.357,Negative,,Negative
-20,Planning to arrive from abroad to Slovakia.,planning arrive abroad slovakia,0,0,0,1,0,Neutral,,Neutral
-21,Find out whether the arrival is even possible.,find whether arrival even possible,1,0.429,0,0.571,0.4588,Positive,,Neutral
-22,And if yes?,yes,0,1,0,0,0.4019,Positive,,Neutral
-23,Are the requirements of the arrival.,requirement arrival,0,0,0,1,0,Neutral,,Neutral
 24,Oh Again.,oh,0,0,0,1,0,Neutral,,Neutral
 25,"No, I do not want to register to anything.",no not want register anything,0,0.183,0.346,0.471,-0.2583,Negative,,Neutral
 26,Going back to the moon.,going back moon,0,0,0,1,0,Neutral,,Neutral
@@ -31,52 +27,37 @@
 29,And completely illiterate.,completely illiterate,0.4,0,0,1,0,Neutral,,Negative
 30,"Or it's not here, and if it's the first option, then I apologize.",not first option apologize,0.333333333,0,0.302,0.698,-0.0762,Negative,,Negative
 31,Filling the air into registration at arrival.,filling air registration arrival,0,0,0,1,0,Neutral,,Neutral
-32,From that you have to fill after around sloke from abroad to the best of.,fill around sloke abroad best,0.3,0.512,0,0.488,0.6369,Positive,,
-33,Ability.,ability,0,1,0,0,0.3182,Positive,,
-34,"You're planning to arrive by plane from the USA, landing in Vienna and then arriving to Slovakia.",plan arrive plane usa landing vienna arrive slovakia,0,0,0,1,0,Neutral,,
-35,You're not vaccinated.,not vaccinate,0,0,0,1,0,Neutral,,
-36,Do not submit the form in the last step.,not submit form last step,0.066666667,0,0,1,0,Neutral,,
-37,Only fill in the information.,fill information,0,0,0,1,0,Neutral,,
-38,Use this information where applicable.,use information applicable,0,0,0,1,0,Neutral,,
-39,Or make up your your own.,make,0,0,0,1,0,Neutral,,
-40,I have four names.,four name,0,0,0,1,0,Neutral,,
-41,I think I will make up my own.,think make,0,0,0,1,0,Neutral,,
-42,So I had.,,0,0,0,0,0,Neutral,,
-43,Where is it here?,,0,0,0,0,0,Neutral,,
-44,Johnsmith@test.com Telephone 00421.,johnsmithtestcom telephone 00421,0,0,0,1,0,Neutral,,
-45,999 999999.,999 999999,0,0,0,1,0,Neutral,,
-46,"One more time, it doesn't want to accept it.",one time not want accept,0,0,0.532,0.468,-0.3412,Negative,,
-47,Plus Copy paste telephone number.,plus copy paste telephone number,0,0.245,0,0.755,0.0772,Positive,,
-48,Lyon Address.,lyon address,0,0,0,1,0,Neutral,,
-49,123 456 Ravnica.,123 456 ravnica,0,0,0,1,0,Neutral,,
-50,"OK. Yeah, but they know English.",ok yeah know english,0.25,0.881,0,0.119,0.7506,Positive,,
-51,Switching the keyboard just because Gelina is with special character going to the next task.,switching keyboard gelina special character go next task,0.285714286,0.278,0,0.722,0.4019,Positive,,
-52,Some experience with filling the form.,experience fill form,0,0,0,1,0,Neutral,,
-53,"It's not so difficult, it's just they're asking too many informations.",not difficult ask many information,0.75,0.345,0,0.655,0.2755,Positive,,
-54,And.,,0,0,0,0,0,Neutral,,
-55,Yeah.,yeah,0,1,0,0,0.296,Positive,,
-56,Switching to Slovak keyboard is not so nice.,switching slovak keyboard not nice,1,0,0.368,0.632,-0.3252,Negative,,
-57,I think it should be made in a way that you just write that and it gives usually automatically.,think make way write give usually automatically,0.25,0,0,1,0,Neutral,,
-58,And.,,0,0,0,0,0,Neutral,,
-59,"Yeah, the rest is up.",yeah rest,0,0.688,0,0.312,0.296,Positive,,
-60,"OK, next task.",ok next task,0.25,0.524,0,0.476,0.296,Positive,,
-61,Describe your understanding of the rules which apply.,describe understanding rule apply,0,0,0,1,0,Neutral,,
-62,After arriving to Slovakia.,arrive slovakia,0,0,0,1,0,Neutral,,
-63,I didn't find them.,not find,0,0,0.713,0.287,-0.357,Negative,,
-64,What you need to do?,need,0,0,0,1,0,Neutral,,
-65,Try describing out loud how you would feel the forms.,try describe loud would feel form,0.8,0,0,1,0,Neutral,,
-66,Did you find to apply for vaccinations from abroad?,find apply vaccination abroad,0,0.5,0,0.5,0.4588,Positive,,
-67,Just rayshon Nice.,rayshon nice,1,0.737,0,0.263,0.4215,Positive,,
-68,"OK, there is good faith declaration.",ok good faith declaration,0.55,0.888,0,0.112,0.7845,Positive,,
-69,Yes.,yes,0,1,0,0,0.4019,Positive,,
-70,And then after it's done.,,0,0,0,0,0,Neutral,,
-71,"In there, otherwise your answer will be lost.",otherwise answer lose,0,0,0.574,0.426,-0.4019,Negative,,
-72,Describe some of your overall experience with the website #3.,describe overall experience website 3,0,0,0,1,0,Neutral,,
-73,Or #4 wasn't so so bad it's my fault I couldn't find things.,4 not bad fault could not find thing,0.666666667,0.406,0.197,0.397,0.3875,Positive,,
-74,How did you feel about obtaining information from the website?,feel obtain information website,0,0,0,1,0,Neutral,,
-75,"Well, #3 because I clicked somewhere and then it re routed me to other.",well 3 click somewhere rout,0,0.344,0,0.656,0.2732,Positive,,
-76,National.,national,0,0,0,1,0,Neutral,,
-77,Health information and then I got lost.,health information get lose,0,0,0.474,0.526,-0.4019,Negative,,
-78,So #3 next question describe how understandable the information from the website was and your level of confidence in being able to use the information.,3 next question describe understandable information website level confidence able use information,0.3125,0.231,0,0.769,0.5106,Positive,,
-79,"Well, #3 because I would need to read it multiple times to be sure that I understand.",well 3 would need read multiple time sure understand,0.444444444,0.552,0,0.448,0.7506,Positive,,
-80,Finish.,finish,0,0,0,1,0,Neutral,,
+40,I have four names.,four name,0,0,0,1,0,Neutral,,Neutral
+41,I think I will make up my own.,think make,0,0,0,1,0,Neutral,,Neutral
+42,So I had.,,0,0,0,0,0,Neutral,,Neutral
+43,Where is it here?,,0,0,0,0,0,Neutral,,Neutral
+44,Johnsmith@test.com Telephone 00421.,johnsmithtestcom telephone 00421,0,0,0,1,0,Neutral,,Neutral
+45,999 999999.,999 999999,0,0,0,1,0,Neutral,,Neutral
+46,"One more time, it doesn't want to accept it.",one time not want accept,0,0,0.532,0.468,-0.3412,Negative,,Negative
+47,Plus Copy paste telephone number.,plus copy paste telephone number,0,0.245,0,0.755,0.0772,Positive,,Neutral
+48,Lyon Address.,lyon address,0,0,0,1,0,Neutral,,Neutral
+49,123 456 Ravnica.,123 456 ravnica,0,0,0,1,0,Neutral,,Neutral
+50,"OK. Yeah, but they know English.",ok yeah know english,0.25,0.881,0,0.119,0.7506,Positive,,Positive
+51,Switching the keyboard just because Gelina is with special character going to the next task.,switching keyboard gelina special character go next task,0.285714286,0.278,0,0.722,0.4019,Positive,,Neutral
+52,Some experience with filling the form.,experience fill form,0,0,0,1,0,Neutral,,Neutral
+53,"It's not so difficult, it's just they're asking too many informations.",not difficult ask many information,0.75,0.345,0,0.655,0.2755,Positive,,Positive
+54,And.,,0,0,0,0,0,Neutral,,Neutral
+55,Yeah.,yeah,0,1,0,0,0.296,Positive,,Neutral
+56,Switching to Slovak keyboard is not so nice.,switching slovak keyboard not nice,1,0,0.368,0.632,-0.3252,Negative,,Negative
+57,I think it should be made in a way that you just write that and it gives usually automatically.,think make way write give usually automatically,0.25,0,0,1,0,Neutral,,Neutral
+58,And.,,0,0,0,0,0,Neutral,,Neutral
+59,"Yeah, the rest is up.",yeah rest,0,0.688,0,0.312,0.296,Positive,,Neutral
+60,"OK, next task.",ok next task,0.25,0.524,0,0.476,0.296,Positive,,Neutral
+63,I didn't find them.,not find,0,0,0.713,0.287,-0.357,Negative,,Negative
+64,What you need to do?,need,0,0,0,1,0,Neutral,,Neutral
+66,Did you find to apply for vaccinations from abroad?,find apply vaccination abroad,0,0.5,0,0.5,0.4588,Positive,,Neutral
+67,Just rayshon Nice.,rayshon nice,1,0.737,0,0.263,0.4215,Positive,,Neutral
+68,"OK, there is good faith declaration.",ok good faith declaration,0.55,0.888,0,0.112,0.7845,Positive,,Neutral
+69,Yes.,yes,0,1,0,0,0.4019,Positive,,Positive
+70,And then after it's done.,,0,0,0,0,0,Neutral,,Neutral
+73,Or #4 wasn't so so bad it's my fault I couldn't find things.,4 not bad fault could not find thing,0.666666667,0.406,0.197,0.397,0.3875,Positive,,Positive
+75,"Well, #3 because I clicked somewhere and then it re routed me to other.",well 3 click somewhere rout,0,0.344,0,0.656,0.2732,Positive,,Negative
+76,National.,national,0,0,0,1,0,Neutral,,Neutral
+77,Health information and then I got lost.,health information get lose,0,0,0.474,0.526,-0.4019,Negative,,Negative
+79,"Well, #3 because I would need to read it multiple times to be sure that I understand.",well 3 would need read multiple time sure understand,0.444444444,0.552,0,0.448,0.7506,Positive,,Negative
+80,Finish.,finish,0,0,0,1,0,Neutral,,Neutral
