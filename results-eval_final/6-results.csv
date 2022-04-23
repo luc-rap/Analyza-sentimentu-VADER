@@ -1,339 +1,305 @@
-,Sentence,Pre-processed sentence,textblob-subjectivity,vader-pos,vader-neg,vader-neu,vader-compound,vader-polarity,sentiment-category
-0,Correct so?,correct,0.0,0.0,0.0,1.0,0.0,Neutral,
-1,Doesn't spend like 2 minutes for raising your so we do website.,not spend like-(non-standard) 2 minute raise website,0.0,0.0,0.0,1.0,0.0,Neutral,
-2,Alright.,alright,0.0,1.0,0.0,0.0,0.25,Positive,
-3,Not just duration.,not duration,0.0,0.0,0.0,1.0,0.0,Neutral,
-4,Distince station for PCR.,distince station pcr,0.0,0.0,0.0,1.0,0.0,Neutral,
-5,Call central.,call central,0.25,0.0,0.0,1.0,0.0,Neutral,
-6,Google Play.,google play,0.0,0.706,0.0,0.294,0.34,Positive,
-7,Keyboarder Talked.,keyboarder talked,0.0,0.0,0.0,1.0,0.0,Neutral,
-8,Klinks blank and measures.,klinks blank measure,0.0,0.0,0.0,1.0,0.0,Neutral,
-9,True and immigration.,true immigration,0.65,0.737,0.0,0.263,0.4215,Positive,
-10,How to print infection right?,print infection right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
-11,Good 19 positive question information chart.,good 19 positive question information chart,0.5727272727272728,0.619,0.0,0.381,0.7579,Positive,
-12,"Alright, let's go next.",alright let us go next,0.0,0.333,0.0,0.667,0.25,Positive,
-13,Just grab your initial impression with the website.,grab initial impression website,0.0,0.388,0.0,0.612,0.2263,Positive,
-14,"Uh, I think it's pretty, uh.",uh think pretty uh,1.0,0.455,0.0,0.545,0.3612,Positive,
-15,Complex.,complex,0.4,0.0,0.0,1.0,0.0,Neutral,
-16,I would say there is a lot of information here.,would say lot information,0.0,0.0,0.0,1.0,0.0,Neutral,
-17,Uh.,uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-18,But I would say everything is on this website for anyone.,would say everything website anyone,0.0,0.0,0.0,1.0,0.0,Neutral,
-19,"Yeah, I think it's very complex, but it's pretty, uh, informal for user like me.",yeah think complex pretty uh informal user like-(non-standard),0.7,0.439,0.0,0.561,0.5719,Positive,
-20,"Yeah, I would say that.",yeah would say,0.0,0.524,0.0,0.476,0.296,Positive,
-21,"Oh, it's even registration at arrival here, right?",oh even registration arrival right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
-22,All right.,right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
-23,"Yeah, I. I think it's it's cool, might be better, but yeah, it's.",yeah think cool might good yeah,0.625,0.828,0.0,0.172,0.8225,Positive,
-24,"It's kind of OK, yeah, next.",kind ok yeah next,0.4666666666666666,0.873,0.0,0.127,0.7096,Positive,
-25,Find the information about which region is lucky as the highest number of total COVID cases.,find information region lucky high number total covid case,0.7077777777777777,0.542,0.0,0.458,0.7269,Positive,
-26,Oh it's nice total alright so.,oh nice total alright,0.875,0.718,0.0,0.282,0.624,Positive,
-27,Where do I go?,go,0.0,0.0,0.0,1.0,0.0,Neutral,
-28,No.,no,0.0,0.0,1.0,0.0,-0.296,Negative,
-29,Advanced statistics.,advanced statistic,0.6,0.667,0.0,0.333,0.25,Positive,
-30,Probably.,probably,0.0,0.0,0.0,1.0,0.0,Neutral,
-31,Uh huh.,uh huh,0.0,0.0,0.0,1.0,0.0,Neutral,
-32,Crying appears to current map.,crying appear current map,0.5,0.0,0.508,0.492,-0.4767,Negative,
-33,Number of new cases in region.,number new case region,0.45454545454545453,0.302,0.0,0.698,0.0772,Positive,
-34,"Boy, this might be fine.",boy might fine,0.5,0.474,0.0,0.526,0.2023,Positive,
-35,Total number of cases.,total number case,0.75,0.443,0.0,0.557,0.1513,Positive,
-36,Which one is the highest?,one high,0.5399999999999999,0.0,0.0,1.0,0.0,Neutral,
-37,"Pressure region might be fine, might be looking good.",pressure region might fine might look good,0.55,0.431,0.202,0.367,0.3612,Positive,
-38,"Yeah, I guess that's it.",yeah guess,0.0,0.688,0.0,0.312,0.296,Positive,
-39,Yeah.,yeah,0.0,1.0,0.0,0.0,0.296,Positive,
-40,Might be dead.,might dead,0.4,0.0,0.811,0.189,-0.6486,Negative,
-41,"Railway, the comprehensibility of the statistics.",railway comprehensibility statistic,0.0,0.0,0.0,1.0,0.0,Neutral,
-42,"Alright, let me just Google it for this.",alright let google,0.0,0.5,0.0,0.5,0.25,Positive,
-43,What does it mean?,mean,0.6875,0.0,0.0,1.0,0.0,Neutral,
-44,"Alright, comprehensibility of statistics.",alright comprehensibility statistic,0.0,0.5,0.0,0.5,0.25,Positive,
-45,Me.,,0.0,0.0,0.0,0.0,0.0,Neutral,
-46,So what do we have here?,,0.0,0.0,0.0,0.0,0.0,Neutral,
-47,"Increase, decrease or no, no decrease, no increase.",increase decrease no no decrease no increase,0.0,0.55,0.178,0.272,0.4791,Positive,
-48,PCR tests.,pcr test,0.0,0.0,0.0,1.0,0.0,Neutral,
-49,"Yup, confirmed cases test LabCorp Front case is not good.",yup confirm case test labcorp front case not good,0.6000000000000001,0.0,0.231,0.769,-0.3412,Negative,
-50,"Yeah, right number of patients in hospital confirmed but COVID-19.",yeah right number patient hospital confirm covid19,0.5357142857142857,0.412,0.0,0.588,0.3612,Positive,
-51,Number of COVID-19 associated deaths right.,number covid19 associate death right,0.5357142857142857,0.159,0.476,0.366,-0.5574,Negative,
-52,Seven day moving median number of personal excited with the first dose.,seven day move median number personal excite first dose,0.31666666666666665,0.386,0.0,0.614,0.5267,Positive,
-53,"Number, number of persons look side with the second dose.",number number person look side second dose,0.0,0.342,0.0,0.658,0.1531,Positive,
-54,Me.,,0.0,0.0,0.0,0.0,0.0,Neutral,
-55,"No, I'm sorry if the grass situation need a.",no sorry grass situation need,1.0,0.234,0.0,0.766,0.0572,Positive,
-56,Sorry.,sorry,1.0,0.0,1.0,0.0,-0.0772,Negative,
-57,Need actions that our government.,need action government,0.1,0.0,0.0,1.0,0.0,Neutral,
-58,"Has set right now, but yeah, I think it's it's OK.",set right yeah think ok,0.5178571428571428,0.595,0.0,0.405,0.5267,Positive,
-59,This statistics it's pretty informative.,statistic pretty informative,1.0,0.556,0.0,0.444,0.3612,Positive,
-60,Everything we need is here.,everything need,0.0,0.0,0.0,1.0,0.0,Neutral,
-61,"So yeah, I guess that's it.",yeah guess,0.0,0.688,0.0,0.312,0.296,Positive,
-62,Right Fender information about.,right fender information,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
-63,'cause I'm exemptions.,exemption,0.0,0.0,0.0,1.0,0.0,Neutral,
-64,Sorry.,sorry,1.0,0.0,1.0,0.0,-0.0772,Negative,
-65,"From compulsory home isolation, after reviving Slovakia, let me just translate it this.",compulsory home isolation revive slovakia let translate,0.0,0.238,0.267,0.495,-0.0772,Negative,
-66,Oh Alright.,oh alright,0.0,0.667,0.0,0.333,0.25,Positive,
-67,So go to home.,go home,0.0,0.0,0.0,1.0,0.0,Neutral,
-68,Uh huh.,uh huh,0.0,0.0,0.0,1.0,0.0,Neutral,
-69,Forms for.,forms,0.0,0.0,0.0,1.0,0.0,Neutral,
-70,Control story.,control story,0.0,0.0,0.0,1.0,0.0,Neutral,
-71,Current measures may be.,current measure may,0.4,0.0,0.0,1.0,0.0,Neutral,
-72,Nope.,nope,0.0,0.0,0.0,1.0,0.0,Neutral,
-73,Huh?,huh,0.0,0.0,0.0,1.0,0.0,Neutral,
-74,Where is this?,,0.0,0.0,0.0,0.0,0.0,Neutral,
-75,About exemptions.,exemption,0.0,0.0,0.0,1.0,0.0,Neutral,
-76,"All right, let's have a closer look look.",right let us close look look,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
-77,Limitations for no.,limitations no,0.0,0.0,0.688,0.312,-0.296,Negative,
-78,That's not it.,not,0.0,0.0,0.0,1.0,0.0,Neutral,
-79,I've checked that already.,check already,0.0,0.0,0.0,1.0,0.0,Neutral,
-80,Or maybe let me just click on this?,maybe let click,0.0,0.0,0.0,1.0,0.0,Neutral,
-81,Degree of limitations yeah.,degree limitation yeah,0.0,0.407,0.407,0.185,0.0,Neutral,
-82,"After after arriving to Slovakia, Oh my God.",arrive slovakia oh god,0.0,0.412,0.0,0.588,0.2732,Positive,
-83,I'm so dump registration arrival.,dump registration arrival,0.0,0.0,0.565,0.435,-0.3818,Negative,
-84,Exemptions.,exemptions,0.0,0.0,0.0,1.0,0.0,Neutral,
-85,Where this could be?,could,0.0,0.0,0.0,1.0,0.0,Neutral,
-86,"True, any immigration, right?",true immigration right,0.5928571428571429,0.583,0.0,0.417,0.4215,Positive,
-87,True or regulations?,true regulation,0.65,0.737,0.0,0.263,0.4215,Positive,
-88,Border regime.,border regime,0.0,0.0,0.0,1.0,0.0,Neutral,
-89,Generals.,generals,0.0,0.0,0.0,1.0,0.0,Neutral,
-90,"I'm I'm excited, I'm vaccinated.",excited vaccinated,0.75,0.706,0.0,0.294,0.34,Positive,
-91,Enter mandatory self isolation right if they are covered by an exemption from crafting.,enter mandatory self isolation right cover exemption craft,0.5357142857142857,0.13,0.27,0.6,-0.34,Negative,
-92,"In case of performance of their profession, for example.",case performance profession example,0.0,0.0,0.0,1.0,0.0,Neutral,
-93,Girls trans truck drivers from neural service workers during the transport of remains.,girls trans truck driver neural service worker transport remains,0.0,0.0,0.0,1.0,0.0,Neutral,
-94,"These persons do how to prove a negative test result for going 19, nor do they have to register.",person prove negative test result go 19 nor register,0.4,0.0,0.316,0.684,-0.5719,Negative,
-95,"A border I would say yeah, this might be.",border would say yeah might,0.0,0.355,0.0,0.645,0.296,Positive,
-96,Alright.,alright,0.0,1.0,0.0,0.0,0.25,Positive,
-97,"Wait, but here's home insulation.",wait heres home insulation,0.0,0.0,0.0,1.0,0.0,Neutral,
-98,Oh There are no exemptions from grunting for these persons for the time being.,oh no exemption grunt person time,0.0,0.0,0.306,0.694,-0.296,Negative,
-99,But they say hear anything about.,say hear anything,0.0,0.0,0.0,1.0,0.0,Neutral,
-100,Person is coming from all right.,person come right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
-101,This might be it.,might,0.0,0.0,0.0,1.0,0.0,Neutral,
-102,I would say this might be it.,would say might,0.0,0.0,0.0,1.0,0.0,Neutral,
-103,Next describe your experiences navigating the exemption rules.,next describe experience navigate exemption rule,0.0,0.0,0.0,1.0,0.0,Neutral,
-104,Uh.,uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-105,It took me a minute to figure it out.,take minute figure,0.0,0.0,0.0,1.0,0.0,Neutral,
-106,"Uh, But I've I found it.",uh find,0.0,0.75,0.0,0.25,0.4588,Positive,
-107,I guess for for use.,guess use,0.0,0.0,0.0,1.0,0.0,Neutral,
-108,Like me it would be.,like-(non-standard) would,0.0,0.0,0.0,1.0,0.0,Neutral,
-109,"Harder or I would say, uh, let's let's not pretend that I am normal user.",harder would say uh let us let us not pretend normal user,0.32499999999999996,0.105,0.0,0.895,0.0762,Positive,
-110,But I mean the other users that might be not as skilled as I am in this.,mean user might not skilled,0.59375,0.0,0.0,1.0,0.0,Neutral,
-111,"In this work with a computer, they might be.",work computer might,0.0,0.0,0.0,1.0,0.0,Neutral,
-112,"Matt, I would say if they were trying to find this information, but yeah.",matt would say try find information yeah,0.0,0.51,0.0,0.49,0.6369,Positive,
-113,I get it I guess.,get guess,0.0,0.0,0.0,1.0,0.0,Neutral,
-114,But it was.,,0.0,0.0,0.0,0.0,0.0,Neutral,
-115,"It was kind of challenging, I would say.",kind challenge would say,0.9,0.655,0.0,0.345,0.4215,Positive,
-116,Next year planning to arrive from from abroad to Slovakia.,next year planning arrive abroad slovakia,0.0,0.0,0.0,1.0,0.0,Neutral,
-117,"Find out whether arrival is even possible and if yes, what are the parameters of the arrival.",find whether arrival even possible yes parameter arrival,1.0,0.487,0.0,0.513,0.6908,Positive,
-118,"Uh, this is it, I would say.",uh would say,0.0,0.0,0.0,1.0,0.0,Neutral,
-119,"But I was, uh, yeah, let me check it.",uh yeah let check,0.0,0.423,0.0,0.577,0.296,Positive,
-120,So it's planning to write from growth from whether I was impossible.,plan write growth whether impossible,1.0,0.394,0.0,0.606,0.3818,Positive,
-121,"Alright, so here are general pergolese.",alright general pergolese,0.5,0.5,0.0,0.5,0.25,Positive,
-122,Uh.,uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-123,"Man, this looks like.",man look like-(non-standard),0.0,0.0,0.0,1.0,0.0,Neutral,
-124,"Diesels, like General Rose for it.",diesels like-(non-standard) general rose,0.725,0.0,0.0,1.0,0.0,Neutral,
-125,Uh.,uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-126,"Final arrival is impossible, and if yes, what are the requirements of the arrival right?",final arrival impossible yes requirement arrival right,0.8452380952380952,0.31,0.0,0.69,0.4019,Positive,
-127,Crossover gate fill in the passenger local.,crossover gate fill passenger local,0.0,0.0,0.0,1.0,0.0,Neutral,
-128,Locate the firm.,locate firm,0.4,0.0,0.0,1.0,0.0,Neutral,
-129,"Alright, so if I uh, if I'm arriving to slot into Slovak Republic by air, I need to fill in the passenger lockout or front.",alright uh arrive slot slovak republic air need fill passenger lockout front,0.0,0.154,0.0,0.846,0.25,Positive,
-130,It looks like.,look like-(non-standard),0.0,0.0,0.0,1.0,0.0,Neutral,
-131,Passengers arrived from a country not included in the list stated below.,passengers arrive country not include list state,0.0,0.0,0.0,1.0,0.0,Neutral,
-132,That is the list of a potential risk countries they may.,list potential risk country may,1.0,0.0,0.344,0.656,-0.2732,Negative,
-133,Need to have a negative PCR test result not older than 62 hours.,need negative pcr test result not old 62 hour,0.30000000000000004,0.0,0.316,0.684,-0.5719,Negative,
-134,"Alright, what's next Brussels?",alright next brussels,0.0,0.5,0.0,0.5,0.25,Positive,
-135,Older than 1212 years and two months of age revving slow.,older 1212 year two month age rev slow,0.36666666666666664,0.0,0.0,1.0,0.0,Neutral,
-136,Register at the border and must be able to request it to show proof of regulation right?,register border must able request show proof regulation right,0.5803571428571428,0.0,0.0,1.0,0.0,Neutral,
-137,So I need to register to.,need register,0.0,0.0,0.0,1.0,0.0,Neutral,
-138,E border.,e border,0.0,0.0,0.0,1.0,0.0,Neutral,
-139,All unvaccinated persons entering.,unvaccinated person enter,0.0,0.0,0.0,1.0,0.0,Neutral,
-140,"Alright, if I'm not vaccinated, I need to enter self isolation, which ends in case of symptom, symptomatic curse and without testing called death day.",alright not vaccinate need enter self isolation end case symptom symptomatic curse without test call death day,0.0,0.211,0.255,0.534,-0.2626,Negative,
-141,If the state from uh after.,state uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-142,"Alright, yeah, if I if I have COVID symptoms I need to inform my, uh, physician or pediatrician.",alright yeah covid symptom need inform uh physician pediatrician,0.0,0.375,0.0,0.625,0.4939,Positive,
-143,"Yeah, right?",yeah right,0.5357142857142857,0.688,0.0,0.312,0.296,Positive,
-144,"Alright, next, how do you feel about searching for the information?",alright next feel search information,0.0,0.333,0.0,0.667,0.25,Positive,
-145,I'm OK with that.,ok,0.5,1.0,0.0,0.0,0.296,Positive,
-146,I think I said that area also.,think say area also,0.0,0.0,0.0,1.0,0.0,Neutral,
-147,"Oh, I think it's recorded.",oh think record,0.0,0.0,0.0,1.0,0.0,Neutral,
-148,That is on the first page where this.,first page,0.3333333333333333,0.0,0.0,1.0,0.0,Neutral,
-149,Information is most urgent.,information urgent,0.0,0.643,0.0,0.357,0.2023,Positive,
-150,"Uh, and if the, uh, people find this information, they find really find because it's on the 1st.",uh uh people find information find really find 1st,0.2,0.608,0.0,0.392,0.8516,Positive,
-151,"Yeah, next filling the fill in the air.",yeah next fill fill air,0.0,0.355,0.0,0.645,0.296,Positive,
-152,Importer.,importer,0.0,0.0,0.0,1.0,0.0,Neutral,
-153,From after.,,0.0,0.0,0.0,0.0,0.0,Neutral,
-154,You planning to arrive by plane?,plan arrive plane,0.0,0.0,0.0,1.0,0.0,Neutral,
-155,Yeah alright feeling.,yeah alright feeling,0.0,1.0,0.0,0.0,0.5719,Positive,
-156,E border restriction arrival correct.,e border restriction arrival correct,0.0,0.0,0.344,0.656,-0.2732,Negative,
-157,And did you hurt them?,hurt,0.0,0.0,1.0,0.0,-0.5267,Negative,
-158,"So after replying to slow Q from to, the best of your ability you planning to arrive by playing from the USA or right United States.",reply slow q best ability plan arrive play usa right united states,0.41190476190476194,0.594,0.0,0.406,0.8934,Positive,
-159,America landing into Vienna?,america land vienna,0.0,0.0,0.0,1.0,0.0,Neutral,
-160,Austria and then.,austria,0.0,0.0,0.0,1.0,0.0,Neutral,
-161,And then arriving to Slovakia.,arrive slovakia,0.0,0.0,0.0,1.0,0.0,Neutral,
-162,Where where I can enter that?,enter,0.0,0.0,0.0,1.0,0.0,Neutral,
-163,Add another country with it.,add another country,0.0,0.0,0.0,1.0,0.0,Neutral,
-164,"The winner of Austria, yeah.",winner austria yeah,0.0,0.857,0.0,0.143,0.7184,Positive,
-165,"You're not vaccinated, alright.",not vaccinate alright,0.0,0.0,0.465,0.535,-0.1877,Negative,
-166,"Ah, do I chose this?",ah choose,0.0,0.0,0.0,1.0,0.0,Neutral,
-167,It doesn't look like I have to order it.,not look like-(non-standard) order,0.0,0.0,0.0,1.0,0.0,Neutral,
-168,Do not submit the form in the last step.,not submit form last step,0.06666666666666667,0.0,0.0,1.0,0.0,Neutral,
-169,"When I fill in the information used, this information very applicable.",fill information use information applicable,0.0,0.0,0.0,1.0,0.0,Neutral,
-170,If ur name.,ur name,0.0,0.0,0.0,1.0,0.0,Neutral,
-171,John.,john,0.0,0.0,0.0,1.0,0.0,Neutral,
-172,John.,john,0.0,0.0,0.0,1.0,0.0,Neutral,
-173,It's miss.,miss,0.0,0.0,1.0,0.0,-0.1531,Negative,
-174,**** birth number.,birth number,0.0,0.565,0.0,0.435,0.0772,Positive,
-175,Yeah alright 123456.,yeah alright 123456,0.0,0.808,0.0,0.192,0.4939,Positive,
-176,Earth.,earth,0.0,0.0,0.0,1.0,0.0,Neutral,
-177,13th January.,13th january,0.0,0.0,0.0,1.0,0.0,Neutral,
-178,January.,january,0.0,0.0,0.0,1.0,0.0,Neutral,
-179,I hadn't seen 99.,not see 99,0.0,0.0,0.554,0.446,-0.357,Negative,
-180,Email pastorpastor@gmail.com +13456789.,email pastorpastorgmailcom 13456789,0.0,0.0,0.0,1.0,0.0,Neutral,
-181,Address for yeah.,address yeah,0.0,0.688,0.0,0.312,0.296,Positive,
-182,"Try it again, OK?",try ok,0.5,0.688,0.0,0.312,0.296,Positive,
-183,Little crooked number.,little crook number,0.5,0.394,0.0,0.606,0.0772,Positive,
-184,"Pretty entirely cut, don't know.",pretty entirely cut not know,0.8125,0.259,0.533,0.208,-0.3893,Negative,
-185,What's wrong with it?,wrong,0.9,0.0,1.0,0.0,-0.4767,Negative,
-186,Continue.,continue,0.0,0.0,0.0,1.0,0.0,Neutral,
-187,What happened?,happen,0.0,0.0,0.0,1.0,0.0,Neutral,
-188,Yeah alright.,yeah alright,0.0,1.0,0.0,0.0,0.4939,Positive,
-189,Vaccination I am not vaccinated or I do not make the conditions.,vaccination not vaccinate not make condition,0.0,0.0,0.0,1.0,0.0,Neutral,
-190,"Yeah, continue.",yeah continue,0.0,0.688,0.0,0.312,0.296,Positive,
-191,I do not do I have?,not,0.0,0.0,0.0,1.0,0.0,Neutral,
-192,Do I have an exemption?,exemption,0.0,0.0,0.0,1.0,0.0,Neutral,
-193,I guess I don't.,guess dont,0.0,0.0,0.0,1.0,0.0,Neutral,
-194,"Yeah, let me check it.",yeah let check,0.0,0.524,0.0,0.476,0.296,Positive,
-195,Huh?,huh,0.0,0.0,0.0,1.0,0.0,Neutral,
-196,To the best of your ability.,best ability,0.3,1.0,0.0,0.0,0.7579,Positive,
-197,Doesn't mean that I'm not ill.,not mean not ill,0.84375,0.0,0.398,0.602,-0.2466,Negative,
-198,"Uh, I have no exemption.",uh no exemption,0.0,0.0,0.524,0.476,-0.296,Negative,
-199,River.,river,0.0,0.0,0.0,1.0,0.0,Neutral,
-200,House number one post code 12345.,house number one post code 12345,0.0,0.206,0.0,0.794,0.0772,Positive,
-201,Uptown Where can't choose it?,uptown not choose,0.0,0.0,0.0,1.0,0.0,Neutral,
-202,What's wrong with it?,wrong,0.9,0.0,1.0,0.0,-0.4767,Negative,
-203,Surely not.,surely not,0.8888888888888888,0.744,0.0,0.256,0.4404,Positive,
-204,I can't choose my hometown.,not choose hometown,0.0,0.0,0.0,1.0,0.0,Neutral,
-205,A river.,river,0.0,0.0,0.0,1.0,0.0,Neutral,
-206,Street House number one.,street house number one,0.0,0.302,0.0,0.698,0.0772,Positive,
-207,Post code 12345 alright.,post code 12345 alright,0.0,0.4,0.0,0.6,0.25,Positive,
-208,There was the do not submitted the form right next some of your experience with filling with filling the form.,not submit form right next experience fill fill form,0.26785714285714285,0.0,0.0,1.0,0.0,Neutral,
-209,Uh.,uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-210,I guess it was OK.,guess ok,0.5,0.688,0.0,0.312,0.296,Positive,
-211,"Uh, it was straightforward, I would say.",uh straightforward would say,0.375,0.0,0.0,1.0,0.0,Neutral,
-212,"Uh, maybe.",uh maybe,0.0,0.0,0.0,1.0,0.0,Neutral,
-213,Not maybe.,not maybe,0.0,0.0,0.0,1.0,0.0,Neutral,
-214,"I guess this is fine I I would say this residence address is pretty broken, I would say because after when I choose a city town I was I was looking at that this growing platform or how.",guess fine would say residence address pretty broken would say choose city town look grow platform,0.6333333333333333,0.211,0.152,0.637,0.0516,Positive,
-215,How can I describe it?,describe,0.0,0.0,0.0,1.0,0.0,Neutral,
-216,This rolling menu will.,roll menu,0.0,0.0,0.0,1.0,0.0,Neutral,
-217,"So we will be sorted alphabetically, but it wasn't.",sort alphabetically wasnt,0.0,0.0,0.0,1.0,0.0,Neutral,
-218,I don't know why.,not know,0.0,0.0,0.713,0.287,-0.357,Negative,
-219,"Oh, so this was Canada.",oh canada,0.0,0.0,0.0,1.0,0.0,Neutral,
-220,First thing but after.,first thing,0.3333333333333333,0.0,0.0,1.0,0.0,Neutral,
-221,"Selecting the view in a town, it was alright.",selecting view town alright,0.0,0.4,0.0,0.6,0.25,Positive,
-222,"It also filled in automatically the post code, so I guess it's OK.",also fill automatically post code guess ok,0.5,0.268,0.0,0.732,0.296,Positive,
-223,"Uh, and the other.",uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-224,The other forms that were previously before this.,form previously,0.16666666666666666,0.0,0.0,1.0,0.0,Neutral,
-225,"Were fine, I would say.",fine would say,0.5,0.474,0.0,0.526,0.2023,Positive,
-226,It was everything that was needed.,everything need,0.0,0.0,0.0,1.0,0.0,Neutral,
-227,Describe your understanding of the rules which apply which apply after arriving to Slovakia.,describe understanding rule apply apply arrive slovakia,0.0,0.0,0.0,1.0,0.0,Neutral,
-228,"Alright, so.",alright,0.0,1.0,0.0,0.0,0.25,Positive,
-229,This depends on the on the.,depend,0.0,0.0,0.0,1.0,0.0,Neutral,
-230,Under information whether I am vaccinated or I'm not vaccinated because it depends.,information whether vaccinated not vaccinate depend,0.0,0.0,0.0,1.0,0.0,Neutral,
-231,There are specific intro quirements for.,specific intro quirements,0.125,0.0,0.0,1.0,0.0,Neutral,
-232,"These kind of, uh, situations and also it depends on whether I am a in the special category of people that are.",kind uh situation also depend whether special category people,0.7357142857142858,0.426,0.0,0.574,0.6369,Positive,
-233,In what was that in working with trans or something like that?,work trans something like-(non-standard),0.0,0.0,0.0,1.0,0.0,Neutral,
-234,Whether I need to or I don't need to enter mandatory self isolation?,whether need not need enter mandatory self isolation,0.0,0.0,0.395,0.605,-0.4445,Negative,
-235,"And yeah, I would say it's much like.",yeah would say much like-(non-standard),0.2,0.355,0.0,0.645,0.296,Positive,
-236,There is also always form of countries from which null test is required.,also always form country null test require,0.0,0.0,0.0,1.0,0.0,Neutral,
-237,So that means these countries are safe.,mean country safe,0.59375,0.592,0.0,0.408,0.4404,Positive,
-238,"I mean, I mean, say that I do, I do not mean I do not need to show my code test.",mean mean say not mean not need show code test,0.6875,0.0,0.0,1.0,0.0,Neutral,
-239,"From these countries, but there are also countries that are that are risk countries.",country also country risk country,0.0,0.0,0.344,0.656,-0.2732,Negative,
-240,So I need to show my code test.,need show code test,0.0,0.0,0.0,1.0,0.0,Neutral,
-241,"I guess that's pretty much it, and if I'm a positive I need to stay in South mandatory.",guess pretty much positive need stay south mandatory,0.7727272727272727,0.597,0.0,0.403,0.7506,Positive,
-242,"If I'm not, I'm good enough, I would say.",not good enough would say,0.55,0.0,0.376,0.624,-0.3412,Negative,
-243,"Yeah, I would say.",yeah would say,0.0,0.524,0.0,0.476,0.296,Positive,
-244,After being with estimated growth will you would like to complete your extensions like?,estimate growth would like complete extension like-(non-standard),0.4,0.505,0.0,0.495,0.6249,Positive,['Satisfaction']
-245,What are your steps that you need to do?,step need,0.0,0.0,0.0,1.0,0.0,Neutral,
-246,Try describing out loud.,try describe loud,0.8,0.0,0.0,1.0,0.0,Neutral,
-247,How will you feel the firms to define to apply for which?,feel firm define apply,0.4,0.0,0.0,1.0,0.0,Neutral,
-248,Vaccinations from abroad.,vaccinations abroad,0.0,0.0,0.0,1.0,0.0,Neutral,
-249,Alright alright let me.,alright alright let,0.0,0.8,0.0,0.2,0.4588,Positive,
-250,"Alright, let's go back.",alright let us go back,0.0,0.333,0.0,0.667,0.25,Positive,
-251,So.,,0.0,0.0,0.0,0.0,0.0,Neutral,
-252,Huh?,huh,0.0,0.0,0.0,1.0,0.0,Neutral,
-253,A blank for a vaccinations for wrote this looks like it.,blank vaccination write look like-(non-standard),0.0,0.0,0.0,1.0,0.0,Neutral,
-254,Who got your first or second dose abroad and you want to Get full access and go to Canada?,get first second dose abroad want get full access go canada,0.29444444444444445,0.115,0.0,0.885,0.0772,Positive,
-255,Download information chart and good faith declaration for fill in the.,download information chart good faith declaration fill,0.6000000000000001,0.533,0.0,0.467,0.6908,Positive,
-256,Kirk Data signed book to both forms.,kirk data sign book form,0.0,0.0,0.0,1.0,0.0,Neutral,
-257,"Alright, let's go.",alright let us go,0.0,0.4,0.0,0.6,0.25,Positive,
-258,Health insurance provider address.,health insurance provider address,0.0,0.0,0.0,1.0,0.0,Neutral,
-259,Number of doses.,number dos,0.0,0.565,0.0,0.435,0.0772,Positive,
-260,State Institute of Project Control code bench.,state institute project control code bench,0.0,0.0,0.0,1.0,0.0,Neutral,
-261,Did in time of fixation and email address so.,time fixation email address,0.0,0.0,0.0,1.0,0.0,Neutral,
-262,"Uh, I understand this that I need to fill in two forms.",uh understand need fill two form,0.0,0.375,0.0,0.625,0.4588,Positive,
-263,The first one is where I.,first one,0.3333333333333333,0.0,0.0,1.0,0.0,Neutral,
-264,"Uh, where I enter my personal information like who I am?",uh enter personal information like-(non-standard),0.3,0.0,0.0,1.0,0.0,Neutral,
-265,What is my?,,0.0,0.0,0.0,0.0,0.0,Neutral,
-266,Doctor and something like that.,doctor something like-(non-standard),0.0,0.0,0.0,1.0,0.0,Neutral,
-267,What do you see?,see,0.0,1.0,0.0,0.0,0.4588,Positive,
-268,What is your next?,next,0.0,0.0,0.0,1.0,0.0,Neutral,
-269,"Uh, all right some.",uh right,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
-270,"Yeah, this is this looks like nothing.",yeah look like-(non-standard) nothing,0.0,0.423,0.0,0.577,0.296,Positive,
-271,Just an information that they are working with my personal data.,information work personal data,0.3,0.0,0.0,1.0,0.0,Neutral,
-272,"Yeah, right, that's understandable.",yeah right understandable,0.5357142857142857,0.524,0.0,0.476,0.296,Positive,
-273,And so this is the first chart I need to fill in and the second chart is.,first chart need fill second chart,0.16666666666666666,0.0,0.0,1.0,0.0,Neutral,
-274,Good faith declaration.,good faith declaration,0.6000000000000001,0.851,0.0,0.149,0.6908,Positive,
-275,"Oh yeah, that this is something that I was vaccinated.",oh yeah something vaccinate,0.0,0.423,0.0,0.577,0.296,Positive,
-276,Seriously?,seriously,0.6666666666666666,0.0,1.0,0.0,-0.1779,Negative,
-277,"Uh, and I need to fill in.",uh need fill,0.0,0.0,0.0,1.0,0.0,Neutral,
-278,What was the name of the vaccine?,name vaccine,0.0,0.0,0.0,1.0,0.0,Neutral,
-279,"I just got a date of vaccination and the country where I took it and I can select here if I took only the first dose or the 2nd dose or even both, I would say I'm not very sure about it right now.",get date vaccination country take select take first dose 2nd dose even would say not sure right,0.439484126984127,0.0,0.109,0.891,-0.2411,Negative,
-280,"But yeah, I.",yeah,0.0,1.0,0.0,0.0,0.296,Positive,
-281,That's that's pretty much straight forward and again something that I have read.,pretty much straight forward something read,0.7,0.524,0.0,0.476,0.5267,Positive,
-282,The terms and conditions of privacy.,term condition privacy,0.0,0.0,0.0,1.0,0.0,Neutral,
-283,"Yes, not like that.",yes not like-(non-standard),0.0,0.574,0.0,0.426,0.4019,Positive,
-284,"Yeah, that looks fine.",yeah look fine,0.5,0.8,0.0,0.2,0.4588,Positive,
-285,Right evaluate your comprehension regarding the steps required to complete a vaccination.,right evaluate comprehension regard step require complete vaccination,0.46785714285714286,0.0,0.0,1.0,0.0,Neutral,
-286,If I had a comprehension regarding the steps with correct complete series.,comprehension regard step correct complete series,0.4,0.0,0.0,1.0,0.0,Neutral,
-287,Yeah.,yeah,0.0,1.0,0.0,0.0,0.296,Positive,
-288,Oh Mangus I need to.,oh mangus need,0.0,0.0,0.0,1.0,0.0,Neutral,
-289,Read it.,read,0.0,0.0,0.0,1.0,0.0,Neutral,
-290,"Uh, please?",uh please,0.0,0.697,0.0,0.303,0.3182,Positive,
-291,Old scan comments.,old scan comment,0.2,0.0,0.0,1.0,0.0,Neutral,
-292,After that data is very strong.,data strong,0.7333333333333333,0.767,0.0,0.233,0.5106,Positive,
-293,"You can apply for the EU digital code certificate, right?",apply eu digital code certificate right,0.26785714285714285,0.0,0.0,1.0,0.0,Neutral,
-294,I guess I am.,guess,0.0,0.0,0.0,1.0,0.0,Neutral,
-295,Let me just think about it.,let think,0.0,0.0,0.0,1.0,0.0,Neutral,
-296,Start the next steps after filling the forms.,start next step fill form,0.0,0.0,0.0,1.0,0.0,Neutral,
-297,"Alright, well let's let's look.",alright well let us let us look,0.0,0.451,0.0,0.549,0.4767,Positive,
-298,Or it was a?,,0.0,0.0,0.0,0.0,0.0,Neutral,
-299,Something the birth forms and the proof of previous vaccination to the doctor.,something birth form proof previous vaccination doctor,0.16666666666666666,0.0,0.0,1.0,0.0,Neutral,
-300,Uh.,uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-301,Come in both France and the proof of previous vaccination to the doctor at the vaccination center where you where you get questioning without prior registration.,come france proof previous vaccination doctor vaccination center get question without prior registration,0.08888888888888889,0.0,0.0,1.0,0.0,Neutral,
-302,Only the dose given Slovakia and its obtainer go to.,dose give slovakia obtainer go,0.0,0.0,0.0,1.0,0.0,Neutral,
-303,"Uh, gonna go on quick.",uh gon na go quick,0.5,0.0,0.0,1.0,0.0,Neutral,
-304,Alright so after that I need to submit and.,alright need submit,0.0,0.5,0.0,0.5,0.25,Positive,
-305,Submit both forms and the proof of previous vaccination and then I need to visit the doctor at the vaccination centre.,submit form proof previous vaccination need visit doctor vaccination centre,0.16666666666666666,0.0,0.0,1.0,0.0,Neutral,
-306,Where I get where I can get a where I can be vaccinated without prior registration?,get get vaccinate without prior registration,0.0,0.0,0.0,1.0,0.0,Neutral,
-307,"And after that they give me the next uh, next, uh.",give next uh next uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-308,So what was it?,,0.0,0.0,0.0,0.0,0.0,Neutral,
-309,A work session?,work session,0.0,0.0,0.0,1.0,0.0,Neutral,
-310,"Yeah, Siri?",yeah siri,0.0,0.688,0.0,0.312,0.296,Positive,
-311,"Right, go to the questionnaire.",right go questionnaire,0.5357142857142857,0.0,0.0,1.0,0.0,Neutral,
-312,Thank you have a complete autotask we would like you to answer the phone question by describing.,thank complete autotask would like answer phone question describe,0.4,0.417,0.0,0.583,0.6124,Positive,['Satisfaction']
-313,"Uh, do.",uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-314,He answers out loud and also by selecting the number of the vertex care that best matches.,answer loud also select number vertex care best match,0.55,0.592,0.0,0.408,0.8271,Positive,
-315,"You ask, please explain your decision.",ask please explain decision,0.0,0.434,0.0,0.566,0.3182,Positive,
-316,Please do not refer to website during the question or otherwise your answers will be lost start.,please not refer website question otherwise answer lose start,0.0,0.192,0.225,0.583,-0.1027,Negative,
-317,Describe and sum up your over experience with the website.,describe sum experience website,0.0,0.0,0.0,1.0,0.0,Neutral,
-318,"Alright, so.",alright,0.0,1.0,0.0,0.0,0.25,Positive,
-319,"At the first glance, it looks it looked complex, but I guess it's there is everything I need to know and I need to.",first glance look look complex guess everything need know need,0.3666666666666667,0.25,0.0,0.75,0.4588,Positive,
-320,Adapt sometimes there are maybe occasional cases that I did did not spot.,adapt sometimes maybe occasional case not spot,0.125,0.0,0.27,0.73,-0.2996,Negative,
-321,"Like, uh, when I was looking for the what was it, uh?",like-(non-standard) uh look uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-322,"Vaccination for no no, it wasn't.",vaccination no no wasnt,0.0,0.386,0.0,0.614,0.2235,Positive,
-323,"The vaccination from abroad, but I guess the uh, exam exemptions from the abroad when I arrive or about self mandatory home insulation.",vaccination abroad guess uh exam exemption abroad arrive self mandatory home insulation,0.0,0.106,0.0,0.894,0.0772,Positive,
-324,"Yeah, uh, so I would say.",yeah uh would say,0.0,0.423,0.0,0.577,0.296,Positive,
-325,Free.,free,0.8,1.0,0.0,0.0,0.5106,Positive,
-326,"Yeah, I would say free.",yeah would say free,0.8,0.733,0.0,0.267,0.6705,Positive,
-327,How did you feel about obtaining the Reformation from the website?,feel obtain reformation website,0.0,0.0,0.0,1.0,0.0,Neutral,
-328,"Uh, I guess for girls I think I need yeah for looks fine.",uh guess girl think need yeah look fine,0.5,0.4,0.0,0.6,0.4588,Positive,
-329,Describe how understandable the information from the website was and how your level of confidence in B.,describe understandable information website level confidence b,0.0,0.355,0.0,0.645,0.5106,Positive,
-330,You able to use the information.,able use information,0.625,0.0,0.0,1.0,0.0,Neutral,
-331,"Oh wait, I'll describe how understandable in the information from web servers and your level of confidence in being able to use the information.",oh wait shall describe understandable information web server level confidence able use information,0.625,0.216,0.0,0.784,0.5106,Positive,
-332,Uh.,uh,0.0,0.0,0.0,1.0,0.0,Neutral,
-333,I guess for I guess it was really understandable.,guess guess really understandable,0.2,0.0,0.0,1.0,0.0,Neutral,
-334,There was nothing that would.,nothing would,0.0,0.0,0.0,1.0,0.0,Neutral,
-335,"Uh, surprise me.",uh surprise,0.0,0.677,0.0,0.323,0.2732,Positive,
-336,Yeah I would say 4.,yeah would say 4,0.0,0.423,0.0,0.577,0.296,Positive,
-337,"Thank you for participating, no problem.",thank participate no problem,0.0,0.704,0.0,0.296,0.5801,Positive,
+,Sentence,Pre-processed sentence,textblob-subjectivity,vader-pos,vader-neg,vader-neu,vader-compound,vader-polarity,sentiment-category,manual eval
+2,Alright.,alright,0,1,0,0,0.25,Positive,,Positive
+3,Not just duration.,not duration,0,0,0,1,0,Neutral,,Neutral
+4,Distince station for PCR.,distince station pcr,0,0,0,1,0,Neutral,,Neutral
+5,Call central.,call central,0.25,0,0,1,0,Neutral,,Neutral
+6,Google Play.,google play,0,0.706,0,0.294,0.34,Positive,,Neutral
+7,Keyboarder Talked.,keyboarder talked,0,0,0,1,0,Neutral,,Neutral
+8,Klinks blank and measures.,klinks blank measure,0,0,0,1,0,Neutral,,Neutral
+9,True and immigration.,true immigration,0.65,0.737,0,0.263,0.4215,Positive,,Neutral
+10,How to print infection right?,print infection right,0.535714286,0,0,1,0,Neutral,,Neutral
+11,Good 19 positive question information chart.,good 19 positive question information chart,0.572727273,0.619,0,0.381,0.7579,Positive,,Neutral
+12,"Alright, let's go next.",alright let us go next,0,0.333,0,0.667,0.25,Positive,,Neutral
+14,"Uh, I think it's pretty, uh.",uh think pretty uh,1,0.455,0,0.545,0.3612,Positive,,Neutral
+15,Complex.,complex,0.4,0,0,1,0,Neutral,,Negative
+16,I would say there is a lot of information here.,would say lot information,0,0,0,1,0,Neutral,,Neutral
+17,Uh.,uh,0,0,0,1,0,Neutral,,Neutral
+18,But I would say everything is on this website for anyone.,would say everything website anyone,0,0,0,1,0,Neutral,,Neutral
+19,"Yeah, I think it's very complex, but it's pretty, uh, informal for user like me.",yeah think complex pretty uh informal user like-(non-standard),0.7,0.439,0,0.561,0.5719,Positive,,Positive
+20,"Yeah, I would say that.",yeah would say,0,0.524,0,0.476,0.296,Positive,,Neutral
+21,"Oh, it's even registration at arrival here, right?",oh even registration arrival right,0.535714286,0,0,1,0,Neutral,,Neutral
+22,All right.,right,0.535714286,0,0,1,0,Neutral,,Neutral
+23,"Yeah, I. I think it's it's cool, might be better, but yeah, it's.",yeah think cool might good yeah,0.625,0.828,0,0.172,0.8225,Positive,,Positive
+24,"It's kind of OK, yeah, next.",kind ok yeah next,0.466666667,0.873,0,0.127,0.7096,Positive,,Positive
+26,Oh it's nice total alright so.,oh nice total alright,0.875,0.718,0,0.282,0.624,Positive,,Positive
+27,Where do I go?,go,0,0,0,1,0,Neutral,,Neutral
+28,No.,no,0,0,1,0,-0.296,Negative,,Negative
+29,Advanced statistics.,advanced statistic,0.6,0.667,0,0.333,0.25,Positive,,Neutral
+30,Probably.,probably,0,0,0,1,0,Neutral,,Neutral
+31,Uh huh.,uh huh,0,0,0,1,0,Neutral,,Neutral
+32,Crying appears to current map.,crying appear current map,0.5,0,0.508,0.492,-0.4767,Negative,,Neutral
+33,Number of new cases in region.,number new case region,0.454545455,0.302,0,0.698,0.0772,Positive,,Neutral
+34,"Boy, this might be fine.",boy might fine,0.5,0.474,0,0.526,0.2023,Positive,,Positive
+35,Total number of cases.,total number case,0.75,0.443,0,0.557,0.1513,Positive,,Neutral
+36,Which one is the highest?,one high,0.54,0,0,1,0,Neutral,,Neutral
+37,"Pressure region might be fine, might be looking good.",pressure region might fine might look good,0.55,0.431,0.202,0.367,0.3612,Positive,,Positive
+38,"Yeah, I guess that's it.",yeah guess,0,0.688,0,0.312,0.296,Positive,,Positive
+39,Yeah.,yeah,0,1,0,0,0.296,Positive,,Positive
+40,Might be dead.,might dead,0.4,0,0.811,0.189,-0.6486,Negative,,Neutral
+45,Me.,,0,0,0,0,0,Neutral,,Neutral
+46,So what do we have here?,,0,0,0,0,0,Neutral,,Neutral
+47,"Increase, decrease or no, no decrease, no increase.",increase decrease no no decrease no increase,0,0.55,0.178,0.272,0.4791,Positive,,Neutral
+48,PCR tests.,pcr test,0,0,0,1,0,Neutral,,Neutral
+49,"Yup, confirmed cases test LabCorp Front case is not good.",yup confirm case test labcorp front case not good,0.6,0,0.231,0.769,-0.3412,Negative,,Neutral
+50,"Yeah, right number of patients in hospital confirmed but COVID-19.",yeah right number patient hospital confirm covid19,0.535714286,0.412,0,0.588,0.3612,Positive,,Neutral
+51,Number of COVID-19 associated deaths right.,number covid19 associate death right,0.535714286,0.159,0.476,0.366,-0.5574,Negative,,Neutral
+52,Seven day moving median number of personal excited with the first dose.,seven day move median number personal excite first dose,0.316666667,0.386,0,0.614,0.5267,Positive,,Neutral
+53,"Number, number of persons look side with the second dose.",number number person look side second dose,0,0.342,0,0.658,0.1531,Positive,,Neutral
+54,Me.,,0,0,0,0,0,Neutral,,Neutral
+55,"No, I'm sorry if the grass situation need a.",no sorry grass situation need,1,0.234,0,0.766,0.0572,Positive,,Neutral
+56,Sorry.,sorry,1,0,1,0,-0.0772,Negative,,Neutral
+57,Need actions that our government.,need action government,0.1,0,0,1,0,Neutral,,Neutral
+58,"Has set right now, but yeah, I think it's it's OK.",set right yeah think ok,0.517857143,0.595,0,0.405,0.5267,Positive,,Positive
+59,This statistics it's pretty informative.,statistic pretty informative,1,0.556,0,0.444,0.3612,Positive,,Positive
+60,Everything we need is here.,everything need,0,0,0,1,0,Neutral,,Positive
+61,"So yeah, I guess that's it.",yeah guess,0,0.688,0,0.312,0.296,Positive,,Positive
+62,Right Fender information about.,right fender information,0.535714286,0,0,1,0,Neutral,,Neutral
+63,'cause I'm exemptions.,exemption,0,0,0,1,0,Neutral,,Neutral
+64,Sorry.,sorry,1,0,1,0,-0.0772,Negative,,Neutral
+65,"From compulsory home isolation, after reviving Slovakia, let me just translate it this.",compulsory home isolation revive slovakia let translate,0,0.238,0.267,0.495,-0.0772,Negative,,Neutral
+66,Oh Alright.,oh alright,0,0.667,0,0.333,0.25,Positive,,Neutral
+67,So go to home.,go home,0,0,0,1,0,Neutral,,Neutral
+68,Uh huh.,uh huh,0,0,0,1,0,Neutral,,Neutral
+69,Forms for.,forms,0,0,0,1,0,Neutral,,Neutral
+70,Control story.,control story,0,0,0,1,0,Neutral,,Neutral
+71,Current measures may be.,current measure may,0.4,0,0,1,0,Neutral,,Neutral
+72,Nope.,nope,0,0,0,1,0,Neutral,,Neutral
+73,Huh?,huh,0,0,0,1,0,Neutral,,Neutral
+74,Where is this?,,0,0,0,0,0,Neutral,,Neutral
+75,About exemptions.,exemption,0,0,0,1,0,Neutral,,Neutral
+76,"All right, let's have a closer look look.",right let us close look look,0.535714286,0,0,1,0,Neutral,,Neutral
+77,Limitations for no.,limitations no,0,0,0.688,0.312,-0.296,Negative,,Neutral
+78,That's not it.,not,0,0,0,1,0,Neutral,,Negative
+79,I've checked that already.,check already,0,0,0,1,0,Neutral,,Neutral
+80,Or maybe let me just click on this?,maybe let click,0,0,0,1,0,Neutral,,Neutral
+81,Degree of limitations yeah.,degree limitation yeah,0,0.407,0.407,0.185,0,Neutral,,Neutral
+82,"After after arriving to Slovakia, Oh my God.",arrive slovakia oh god,0,0.412,0,0.588,0.2732,Positive,,Neutral
+83,I'm so dump registration arrival.,dump registration arrival,0,0,0.565,0.435,-0.3818,Negative,,Negative
+84,Exemptions.,exemptions,0,0,0,1,0,Neutral,,Neutral
+85,Where this could be?,could,0,0,0,1,0,Neutral,,Neutral
+86,"True, any immigration, right?",true immigration right,0.592857143,0.583,0,0.417,0.4215,Positive,,Neutral
+87,True or regulations?,true regulation,0.65,0.737,0,0.263,0.4215,Positive,,Neutral
+88,Border regime.,border regime,0,0,0,1,0,Neutral,,Neutral
+89,Generals.,generals,0,0,0,1,0,Neutral,,Neutral
+90,"I'm I'm excited, I'm vaccinated.",excited vaccinated,0.75,0.706,0,0.294,0.34,Positive,,Neutral
+91,Enter mandatory self isolation right if they are covered by an exemption from crafting.,enter mandatory self isolation right cover exemption craft,0.535714286,0.13,0.27,0.6,-0.34,Negative,,Neutral
+92,"In case of performance of their profession, for example.",case performance profession example,0,0,0,1,0,Neutral,,Neutral
+93,Girls trans truck drivers from neural service workers during the transport of remains.,girls trans truck driver neural service worker transport remains,0,0,0,1,0,Neutral,,Neutral
+94,"These persons do how to prove a negative test result for going 19, nor do they have to register.",person prove negative test result go 19 nor register,0.4,0,0.316,0.684,-0.5719,Negative,,Neutral
+95,"A border I would say yeah, this might be.",border would say yeah might,0,0.355,0,0.645,0.296,Positive,,Positive
+96,Alright.,alright,0,1,0,0,0.25,Positive,,Positive
+97,"Wait, but here's home insulation.",wait heres home insulation,0,0,0,1,0,Neutral,,Neutral
+98,Oh There are no exemptions from grunting for these persons for the time being.,oh no exemption grunt person time,0,0,0.306,0.694,-0.296,Negative,,Neutral
+99,But they say hear anything about.,say hear anything,0,0,0,1,0,Neutral,,Neutral
+100,Person is coming from all right.,person come right,0.535714286,0,0,1,0,Neutral,,Neutral
+101,This might be it.,might,0,0,0,1,0,Neutral,,Positive
+102,I would say this might be it.,would say might,0,0,0,1,0,Neutral,,Positive
+104,Uh.,uh,0,0,0,1,0,Neutral,,Neutral
+105,It took me a minute to figure it out.,take minute figure,0,0,0,1,0,Neutral,,Negative
+106,"Uh, But I've I found it.",uh find,0,0.75,0,0.25,0.4588,Positive,,Positive
+107,I guess for for use.,guess use,0,0,0,1,0,Neutral,,Neutral
+108,Like me it would be.,like-(non-standard) would,0,0,0,1,0,Neutral,,Neutral
+109,"Harder or I would say, uh, let's let's not pretend that I am normal user.",harder would say uh let us let us not pretend normal user,0.325,0.105,0,0.895,0.0762,Positive,,Negative
+110,But I mean the other users that might be not as skilled as I am in this.,mean user might not skilled,0.59375,0,0,1,0,Neutral,,Negative
+111,"In this work with a computer, they might be.",work computer might,0,0,0,1,0,Neutral,,Neutral
+112,"Matt, I would say if they were trying to find this information, but yeah.",matt would say try find information yeah,0,0.51,0,0.49,0.6369,Positive,,Neutral
+113,I get it I guess.,get guess,0,0,0,1,0,Neutral,,Neutral
+114,But it was.,,0,0,0,0,0,Neutral,,Neutral
+115,"It was kind of challenging, I would say.",kind challenge would say,0.9,0.655,0,0.345,0.4215,Positive,,Negative
+118,"Uh, this is it, I would say.",uh would say,0,0,0,1,0,Neutral,,Neutral
+119,"But I was, uh, yeah, let me check it.",uh yeah let check,0,0.423,0,0.577,0.296,Positive,,Neutral
+121,"Alright, so here are general pergolese.",alright general pergolese,0.5,0.5,0,0.5,0.25,Positive,,Positive
+122,Uh.,uh,0,0,0,1,0,Neutral,,Neutral
+123,"Man, this looks like.",man look like-(non-standard),0,0,0,1,0,Neutral,,Neutral
+124,"Diesels, like General Rose for it.",diesels like-(non-standard) general rose,0.725,0,0,1,0,Neutral,,Neutral
+125,Uh.,uh,0,0,0,1,0,Neutral,,Neutral
+127,Crossover gate fill in the passenger local.,crossover gate fill passenger local,0,0,0,1,0,Neutral,,Neutral
+128,Locate the firm.,locate firm,0.4,0,0,1,0,Neutral,,Neutral
+129,"Alright, so if I uh, if I'm arriving to slot into Slovak Republic by air, I need to fill in the passenger lockout or front.",alright uh arrive slot slovak republic air need fill passenger lockout front,0,0.154,0,0.846,0.25,Positive,,Neutral
+130,It looks like.,look like-(non-standard),0,0,0,1,0,Neutral,,Neutral
+131,Passengers arrived from a country not included in the list stated below.,passengers arrive country not include list state,0,0,0,1,0,Neutral,,Neutral
+132,That is the list of a potential risk countries they may.,list potential risk country may,1,0,0.344,0.656,-0.2732,Negative,,Neutral
+133,Need to have a negative PCR test result not older than 62 hours.,need negative pcr test result not old 62 hour,0.3,0,0.316,0.684,-0.5719,Negative,,Neutral
+134,"Alright, what's next Brussels?",alright next brussels,0,0.5,0,0.5,0.25,Positive,,Neutral
+135,Older than 1212 years and two months of age revving slow.,older 1212 year two month age rev slow,0.366666667,0,0,1,0,Neutral,,Neutral
+136,Register at the border and must be able to request it to show proof of regulation right?,register border must able request show proof regulation right,0.580357143,0,0,1,0,Neutral,,Neutral
+137,So I need to register to.,need register,0,0,0,1,0,Neutral,,Neutral
+138,E border.,e border,0,0,0,1,0,Neutral,,Neutral
+139,All unvaccinated persons entering.,unvaccinated person enter,0,0,0,1,0,Neutral,,Neutral
+140,"Alright, if I'm not vaccinated, I need to enter self isolation, which ends in case of symptom, symptomatic curse and without testing called death day.",alright not vaccinate need enter self isolation end case symptom symptomatic curse without test call death day,0,0.211,0.255,0.534,-0.2626,Negative,,Neutral
+141,If the state from uh after.,state uh,0,0,0,1,0,Neutral,,Neutral
+142,"Alright, yeah, if I if I have COVID symptoms I need to inform my, uh, physician or pediatrician.",alright yeah covid symptom need inform uh physician pediatrician,0,0.375,0,0.625,0.4939,Positive,,Neutral
+143,"Yeah, right?",yeah right,0.535714286,0.688,0,0.312,0.296,Positive,,Positive
+145,I'm OK with that.,ok,0.5,1,0,0,0.296,Positive,,Positive
+146,I think I said that area also.,think say area also,0,0,0,1,0,Neutral,,Neutral
+147,"Oh, I think it's recorded.",oh think record,0,0,0,1,0,Neutral,,Neutral
+148,That is on the first page where this.,first page,0.333333333,0,0,1,0,Neutral,,Neutral
+149,Information is most urgent.,information urgent,0,0.643,0,0.357,0.2023,Positive,,Positive
+150,"Uh, and if the, uh, people find this information, they find really find because it's on the 1st.",uh uh people find information find really find 1st,0.2,0.608,0,0.392,0.8516,Positive,,Positive
+151,"Yeah, next filling the fill in the air.",yeah next fill fill air,0,0.355,0,0.645,0.296,Positive,,Neutral
+152,Importer.,importer,0,0,0,1,0,Neutral,,Neutral
+153,From after.,,0,0,0,0,0,Neutral,,Neutral
+154,You planning to arrive by plane?,plan arrive plane,0,0,0,1,0,Neutral,,Neutral
+155,Yeah alright feeling.,yeah alright feeling,0,1,0,0,0.5719,Positive,,Positive
+156,E border restriction arrival correct.,e border restriction arrival correct,0,0,0.344,0.656,-0.2732,Negative,,Neutral
+157,And did you hurt them?,hurt,0,0,1,0,-0.5267,Negative,,Neutral
+159,America landing into Vienna?,america land vienna,0,0,0,1,0,Neutral,,Neutral
+160,Austria and then.,austria,0,0,0,1,0,Neutral,,Neutral
+161,And then arriving to Slovakia.,arrive slovakia,0,0,0,1,0,Neutral,,Neutral
+162,Where where I can enter that?,enter,0,0,0,1,0,Neutral,,Neutral
+163,Add another country with it.,add another country,0,0,0,1,0,Neutral,,Neutral
+164,"The winner of Austria, yeah.",winner austria yeah,0,0.857,0,0.143,0.7184,Positive,,Neutral
+165,"You're not vaccinated, alright.",not vaccinate alright,0,0,0.465,0.535,-0.1877,Negative,,Neutral
+166,"Ah, do I chose this?",ah choose,0,0,0,1,0,Neutral,,Neutral
+167,It doesn't look like I have to order it.,not look like-(non-standard) order,0,0,0,1,0,Neutral,,Neutral
+168,Do not submit the form in the last step.,not submit form last step,0.066666667,0,0,1,0,Neutral,,Neutral
+169,"When I fill in the information used, this information very applicable.",fill information use information applicable,0,0,0,1,0,Neutral,,Neutral
+170,If ur name.,ur name,0,0,0,1,0,Neutral,,Neutral
+171,John.,john,0,0,0,1,0,Neutral,,Neutral
+172,John.,john,0,0,0,1,0,Neutral,,Neutral
+173,It's miss.,miss,0,0,1,0,-0.1531,Negative,,Neutral
+174,**** birth number.,birth number,0,0.565,0,0.435,0.0772,Positive,,Neutral
+175,Yeah alright 123456.,yeah alright 123456,0,0.808,0,0.192,0.4939,Positive,,Neutral
+176,Earth.,earth,0,0,0,1,0,Neutral,,Neutral
+177,13th January.,13th january,0,0,0,1,0,Neutral,,Neutral
+178,January.,january,0,0,0,1,0,Neutral,,Neutral
+179,I hadn't seen 99.,not see 99,0,0,0.554,0.446,-0.357,Negative,,Negative
+180,Email pastorpastor@gmail.com +13456789.,email pastorpastorgmailcom 13456789,0,0,0,1,0,Neutral,,Neutral
+181,Address for yeah.,address yeah,0,0.688,0,0.312,0.296,Positive,,Neutral
+182,"Try it again, OK?",try ok,0.5,0.688,0,0.312,0.296,Positive,,Neutral
+183,Little crooked number.,little crook number,0.5,0.394,0,0.606,0.0772,Positive,,Neutral
+184,"Pretty entirely cut, don't know.",pretty entirely cut not know,0.8125,0.259,0.533,0.208,-0.3893,Negative,,Negative
+185,What's wrong with it?,wrong,0.9,0,1,0,-0.4767,Negative,,Negative
+186,Continue.,continue,0,0,0,1,0,Neutral,,Neutral
+187,What happened?,happen,0,0,0,1,0,Neutral,,Neutral
+188,Yeah alright.,yeah alright,0,1,0,0,0.4939,Positive,,Positive
+189,Vaccination I am not vaccinated or I do not make the conditions.,vaccination not vaccinate not make condition,0,0,0,1,0,Neutral,,Neutral
+190,"Yeah, continue.",yeah continue,0,0.688,0,0.312,0.296,Positive,,Positive
+191,I do not do I have?,not,0,0,0,1,0,Neutral,,Neutral
+192,Do I have an exemption?,exemption,0,0,0,1,0,Neutral,,Neutral
+193,I guess I don't.,guess dont,0,0,0,1,0,Neutral,,Neutral
+194,"Yeah, let me check it.",yeah let check,0,0.524,0,0.476,0.296,Positive,,Neutral
+195,Huh?,huh,0,0,0,1,0,Neutral,,Neutral
+197,Doesn't mean that I'm not ill.,not mean not ill,0.84375,0,0.398,0.602,-0.2466,Negative,,Neutral
+198,"Uh, I have no exemption.",uh no exemption,0,0,0.524,0.476,-0.296,Negative,,Neutral
+199,River.,river,0,0,0,1,0,Neutral,,Neutral
+200,House number one post code 12345.,house number one post code 12345,0,0.206,0,0.794,0.0772,Positive,,Neutral
+201,Uptown Where can't choose it?,uptown not choose,0,0,0,1,0,Neutral,,Neutral
+202,What's wrong with it?,wrong,0.9,0,1,0,-0.4767,Negative,,Negative
+203,Surely not.,surely not,0.888888889,0.744,0,0.256,0.4404,Positive,,Neutral
+204,I can't choose my hometown.,not choose hometown,0,0,0,1,0,Neutral,,Neutral
+205,A river.,river,0,0,0,1,0,Neutral,,Neutral
+206,Street House number one.,street house number one,0,0.302,0,0.698,0.0772,Positive,,Neutral
+207,Post code 12345 alright.,post code 12345 alright,0,0.4,0,0.6,0.25,Positive,,Neutral
+209,Uh.,uh,0,0,0,1,0,Neutral,,Neutral
+210,I guess it was OK.,guess ok,0.5,0.688,0,0.312,0.296,Positive,,Positive
+211,"Uh, it was straightforward, I would say.",uh straightforward would say,0.375,0,0,1,0,Neutral,,Positive
+212,"Uh, maybe.",uh maybe,0,0,0,1,0,Neutral,,Neutral
+213,Not maybe.,not maybe,0,0,0,1,0,Neutral,,Neutral
+214,"I guess this is fine I I would say this residence address is pretty broken, I would say because after when I choose a city town I was I was looking at that this growing platform or how.",guess fine would say residence address pretty broken would say choose city town look grow platform,0.633333333,0.211,0.152,0.637,0.0516,Positive,,Positive
+215,How can I describe it?,describe,0,0,0,1,0,Neutral,,Neutral
+216,This rolling menu will.,roll menu,0,0,0,1,0,Neutral,,Neutral
+217,"So we will be sorted alphabetically, but it wasn't.",sort alphabetically wasnt,0,0,0,1,0,Neutral,,Neutral
+218,I don't know why.,not know,0,0,0.713,0.287,-0.357,Negative,,Negative
+219,"Oh, so this was Canada.",oh canada,0,0,0,1,0,Neutral,,Neutral
+220,First thing but after.,first thing,0.333333333,0,0,1,0,Neutral,,Neutral
+221,"Selecting the view in a town, it was alright.",selecting view town alright,0,0.4,0,0.6,0.25,Positive,,Positive
+222,"It also filled in automatically the post code, so I guess it's OK.",also fill automatically post code guess ok,0.5,0.268,0,0.732,0.296,Positive,,Positive
+223,"Uh, and the other.",uh,0,0,0,1,0,Neutral,,Neutral
+224,The other forms that were previously before this.,form previously,0.166666667,0,0,1,0,Neutral,,Neutral
+225,"Were fine, I would say.",fine would say,0.5,0.474,0,0.526,0.2023,Positive,,Positive
+226,It was everything that was needed.,everything need,0,0,0,1,0,Neutral,,Positive
+228,"Alright, so.",alright,0,1,0,0,0.25,Positive,,Positive
+229,This depends on the on the.,depend,0,0,0,1,0,Neutral,,Neutral
+230,Under information whether I am vaccinated or I'm not vaccinated because it depends.,information whether vaccinated not vaccinate depend,0,0,0,1,0,Neutral,,Neutral
+231,There are specific intro quirements for.,specific intro quirements,0.125,0,0,1,0,Neutral,,Neutral
+232,"These kind of, uh, situations and also it depends on whether I am a in the special category of people that are.",kind uh situation also depend whether special category people,0.735714286,0.426,0,0.574,0.6369,Positive,,Neutral
+233,In what was that in working with trans or something like that?,work trans something like-(non-standard),0,0,0,1,0,Neutral,,Neutral
+234,Whether I need to or I don't need to enter mandatory self isolation?,whether need not need enter mandatory self isolation,0,0,0.395,0.605,-0.4445,Negative,,Neutral
+235,"And yeah, I would say it's much like.",yeah would say much like-(non-standard),0.2,0.355,0,0.645,0.296,Positive,,Neutral
+236,There is also always form of countries from which null test is required.,also always form country null test require,0,0,0,1,0,Neutral,,Neutral
+237,So that means these countries are safe.,mean country safe,0.59375,0.592,0,0.408,0.4404,Positive,,Neutral
+238,"I mean, I mean, say that I do, I do not mean I do not need to show my code test.",mean mean say not mean not need show code test,0.6875,0,0,1,0,Neutral,,Neutral
+239,"From these countries, but there are also countries that are that are risk countries.",country also country risk country,0,0,0.344,0.656,-0.2732,Negative,,Neutral
+240,So I need to show my code test.,need show code test,0,0,0,1,0,Neutral,,Neutral
+241,"I guess that's pretty much it, and if I'm a positive I need to stay in South mandatory.",guess pretty much positive need stay south mandatory,0.772727273,0.597,0,0.403,0.7506,Positive,,Positive
+242,"If I'm not, I'm good enough, I would say.",not good enough would say,0.55,0,0.376,0.624,-0.3412,Negative,,Neutral
+243,"Yeah, I would say.",yeah would say,0,0.524,0,0.476,0.296,Positive,,Positive
+248,Vaccinations from abroad.,vaccinations abroad,0,0,0,1,0,Neutral,,Neutral
+249,Alright alright let me.,alright alright let,0,0.8,0,0.2,0.4588,Positive,,Positive
+250,"Alright, let's go back.",alright let us go back,0,0.333,0,0.667,0.25,Positive,,Neutral
+251,So.,,0,0,0,0,0,Neutral,,Neutral
+252,Huh?,huh,0,0,0,1,0,Neutral,,Neutral
+253,A blank for a vaccinations for wrote this looks like it.,blank vaccination write look like-(non-standard),0,0,0,1,0,Neutral,,Neutral
+254,Who got your first or second dose abroad and you want to Get full access and go to Canada?,get first second dose abroad want get full access go canada,0.294444444,0.115,0,0.885,0.0772,Positive,,Neutral
+255,Download information chart and good faith declaration for fill in the.,download information chart good faith declaration fill,0.6,0.533,0,0.467,0.6908,Positive,,Neutral
+256,Kirk Data signed book to both forms.,kirk data sign book form,0,0,0,1,0,Neutral,,Neutral
+257,"Alright, let's go.",alright let us go,0,0.4,0,0.6,0.25,Positive,,Positive
+258,Health insurance provider address.,health insurance provider address,0,0,0,1,0,Neutral,,Neutral
+259,Number of doses.,number dos,0,0.565,0,0.435,0.0772,Positive,,Neutral
+260,State Institute of Project Control code bench.,state institute project control code bench,0,0,0,1,0,Neutral,,Neutral
+261,Did in time of fixation and email address so.,time fixation email address,0,0,0,1,0,Neutral,,Neutral
+262,"Uh, I understand this that I need to fill in two forms.",uh understand need fill two form,0,0.375,0,0.625,0.4588,Positive,,Positive
+263,The first one is where I.,first one,0.333333333,0,0,1,0,Neutral,,Neutral
+264,"Uh, where I enter my personal information like who I am?",uh enter personal information like-(non-standard),0.3,0,0,1,0,Neutral,,Neutral
+265,What is my?,,0,0,0,0,0,Neutral,,Neutral
+266,Doctor and something like that.,doctor something like-(non-standard),0,0,0,1,0,Neutral,,Neutral
+267,What do you see?,see,0,1,0,0,0.4588,Positive,,Neutral
+268,What is your next?,next,0,0,0,1,0,Neutral,,Neutral
+269,"Uh, all right some.",uh right,0.535714286,0,0,1,0,Neutral,,Neutral
+270,"Yeah, this is this looks like nothing.",yeah look like-(non-standard) nothing,0,0.423,0,0.577,0.296,Positive,,Neutral
+271,Just an information that they are working with my personal data.,information work personal data,0.3,0,0,1,0,Neutral,,Neutral
+272,"Yeah, right, that's understandable.",yeah right understandable,0.535714286,0.524,0,0.476,0.296,Positive,,Positive
+273,And so this is the first chart I need to fill in and the second chart is.,first chart need fill second chart,0.166666667,0,0,1,0,Neutral,,Neutral
+274,Good faith declaration.,good faith declaration,0.6,0.851,0,0.149,0.6908,Positive,,Neutral
+275,"Oh yeah, that this is something that I was vaccinated.",oh yeah something vaccinate,0,0.423,0,0.577,0.296,Positive,,Neutral
+276,Seriously?,seriously,0.666666667,0,1,0,-0.1779,Negative,,Negative
+277,"Uh, and I need to fill in.",uh need fill,0,0,0,1,0,Neutral,,Neutral
+278,What was the name of the vaccine?,name vaccine,0,0,0,1,0,Neutral,,Neutral
+279,"I just got a date of vaccination and the country where I took it and I can select here if I took only the first dose or the 2nd dose or even both, I would say I'm not very sure about it right now.",get date vaccination country take select take first dose 2nd dose even would say not sure right,0.439484127,0,0.109,0.891,-0.2411,Negative,,Negative
+280,"But yeah, I.",yeah,0,1,0,0,0.296,Positive,,Positive
+281,That's that's pretty much straight forward and again something that I have read.,pretty much straight forward something read,0.7,0.524,0,0.476,0.5267,Positive,,Positive
+282,The terms and conditions of privacy.,term condition privacy,0,0,0,1,0,Neutral,,Neutral
+283,"Yes, not like that.",yes not like-(non-standard),0,0.574,0,0.426,0.4019,Positive,,Neutral
+284,"Yeah, that looks fine.",yeah look fine,0.5,0.8,0,0.2,0.4588,Positive,,Positive
+286,If I had a comprehension regarding the steps with correct complete series.,comprehension regard step correct complete series,0.4,0,0,1,0,Neutral,,Neutral
+287,Yeah.,yeah,0,1,0,0,0.296,Positive,,Positive
+288,Oh Mangus I need to.,oh mangus need,0,0,0,1,0,Neutral,,Neutral
+289,Read it.,read,0,0,0,1,0,Neutral,,Neutral
+290,"Uh, please?",uh please,0,0.697,0,0.303,0.3182,Positive,,Neutral
+291,Old scan comments.,old scan comment,0.2,0,0,1,0,Neutral,,Neutral
+292,After that data is very strong.,data strong,0.733333333,0.767,0,0.233,0.5106,Positive,,Neutral
+293,"You can apply for the EU digital code certificate, right?",apply eu digital code certificate right,0.267857143,0,0,1,0,Neutral,,Neutral
+294,I guess I am.,guess,0,0,0,1,0,Neutral,,Neutral
+295,Let me just think about it.,let think,0,0,0,1,0,Neutral,,Neutral
+296,Start the next steps after filling the forms.,start next step fill form,0,0,0,1,0,Neutral,,Neutral
+297,"Alright, well let's let's look.",alright well let us let us look,0,0.451,0,0.549,0.4767,Positive,,Neutral
+298,Or it was a?,,0,0,0,0,0,Neutral,,Neutral
+299,Something the birth forms and the proof of previous vaccination to the doctor.,something birth form proof previous vaccination doctor,0.166666667,0,0,1,0,Neutral,,Neutral
+300,Uh.,uh,0,0,0,1,0,Neutral,,Neutral
+301,Come in both France and the proof of previous vaccination to the doctor at the vaccination center where you where you get questioning without prior registration.,come france proof previous vaccination doctor vaccination center get question without prior registration,0.088888889,0,0,1,0,Neutral,,Neutral
+302,Only the dose given Slovakia and its obtainer go to.,dose give slovakia obtainer go,0,0,0,1,0,Neutral,,Neutral
+303,"Uh, gonna go on quick.",uh gon na go quick,0.5,0,0,1,0,Neutral,,Neutral
+304,Alright so after that I need to submit and.,alright need submit,0,0.5,0,0.5,0.25,Positive,,Neutral
+305,Submit both forms and the proof of previous vaccination and then I need to visit the doctor at the vaccination centre.,submit form proof previous vaccination need visit doctor vaccination centre,0.166666667,0,0,1,0,Neutral,,Neutral
+306,Where I get where I can get a where I can be vaccinated without prior registration?,get get vaccinate without prior registration,0,0,0,1,0,Neutral,,Neutral
+307,"And after that they give me the next uh, next, uh.",give next uh next uh,0,0,0,1,0,Neutral,,Neutral
+308,So what was it?,,0,0,0,0,0,Neutral,,Neutral
+309,A work session?,work session,0,0,0,1,0,Neutral,,Neutral
+310,"Yeah, Siri?",yeah siri,0,0.688,0,0.312,0.296,Positive,,Neutral
+313,"Uh, do.",uh,0,0,0,1,0,Neutral,,Neutral
+318,"Alright, so.",alright,0,1,0,0,0.25,Positive,,Positive
+319,"At the first glance, it looks it looked complex, but I guess it's there is everything I need to know and I need to.",first glance look look complex guess everything need know need,0.366666667,0.25,0,0.75,0.4588,Positive,,Positive
+320,Adapt sometimes there are maybe occasional cases that I did did not spot.,adapt sometimes maybe occasional case not spot,0.125,0,0.27,0.73,-0.2996,Negative,,Negative
+321,"Like, uh, when I was looking for the what was it, uh?",like-(non-standard) uh look uh,0,0,0,1,0,Neutral,,Neutral
+322,"Vaccination for no no, it wasn't.",vaccination no no wasnt,0,0.386,0,0.614,0.2235,Positive,,Neutral
+323,"The vaccination from abroad, but I guess the uh, exam exemptions from the abroad when I arrive or about self mandatory home insulation.",vaccination abroad guess uh exam exemption abroad arrive self mandatory home insulation,0,0.106,0,0.894,0.0772,Positive,,Neutral
+324,"Yeah, uh, so I would say.",yeah uh would say,0,0.423,0,0.577,0.296,Positive,,Neutral
+325,Free.,free,0.8,1,0,0,0.5106,Positive,,Neutral
+326,"Yeah, I would say free.",yeah would say free,0.8,0.733,0,0.267,0.6705,Positive,,Neutral
+328,"Uh, I guess for girls I think I need yeah for looks fine.",uh guess girl think need yeah look fine,0.5,0.4,0,0.6,0.4588,Positive,,Positive
+332,Uh.,uh,0,0,0,1,0,Neutral,,Neutral
+333,I guess for I guess it was really understandable.,guess guess really understandable,0.2,0,0,1,0,Neutral,,Positive
+334,There was nothing that would.,nothing would,0,0,0,1,0,Neutral,,Neutral
+335,"Uh, surprise me.",uh surprise,0,0.677,0,0.323,0.2732,Positive,,Positive
+336,Yeah I would say 4.,yeah would say 4,0,0.423,0,0.577,0.296,Positive,,Neutral
