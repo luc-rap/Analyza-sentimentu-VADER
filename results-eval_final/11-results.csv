@@ -11,8 +11,6 @@
 9,Too much information on the same page.,much information page,0.2,0,0,1,0,Neutral,,Negative
 10,"Of course you can Click to open the sections and to close them, but still problem and there's.",course click open section close still problem,0.5,0,0.31,0.69,-0.4019,Negative,,Negative
 11,Quite a lot of information.,quite lot information,0,0,0,1,0,Neutral,,Negative
-12,Information about the region.,information region,0,0,0,1,0,Neutral,,Neutral
-13,"In Slovakia, that has the highest number of total COVID cases.",slovakia high number total covid case,0.645,0.206,0,0.794,0.0772,Positive,,Neutral
 14,"OK, you can see them.",ok see,0.5,1,0,0,0.6369,Positive,,Positive
 15,Just close it out tonight.,close tonight,0,0,0,1,0,Neutral,,Neutral
 16,It is not what we are looking for.,not look,0,0,0,1,0,Neutral,,Negative
@@ -55,12 +53,11 @@
 53,Download this video PDF document as well.,download video pdf document well,0,0.344,0,0.656,0.2732,Positive,,Neutral
 54,Room and that is not quite.,room not quite,0,0,0,1,0,Neutral,,Negative
 55,Comfortable.,comfortable,0.8,1,0,0,0.5106,Positive,,Positive
-56,"From words, to the best of your ability are planning to run by plane from the US mainland in Vienna.",word best ability plan run plane us mainland vienna,0.3,0.481,0,0.519,0.7579,Positive,,Positive
 57,"OK, so you see.",ok see,0.5,1,0,0,0.6369,Positive,,Neutral
 58,Assuming.,assuming,0,0,0,1,0,Neutral,,Neutral
 59,Smith ID.,smith id,0,0,0,1,0,Neutral,,Neutral
 60,Keep me.,keep,0,0,0,1,0,Neutral,,Neutral
-61,Yeah.,yeah,0,1,0,0,0.296,Positive,,Neutral
+61,Yeah.,yeah,0,1,0,0,0.296,Positive,,Positive
 62,Date of birth.,date birth,0,0,0,1,0,Neutral,,Neutral
 63,OK.,ok,0.5,1,0,0,0.296,Positive,,Positive
 64,Strange.,strange,0.15,0,1,0,-0.2023,Negative,,Negative
